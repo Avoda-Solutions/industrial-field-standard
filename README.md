@@ -1,21 +1,60 @@
 # The Physics of Digital Transformation
 
-**Author:** Tuukka Vesa, Avoda Solutions OÜ
-
-**License:** CC-BY-ND 4.0 (Attribution-NoDerivatives)
-
-**Status:** Canonical Definition (v1.0)
-
+**Author:** Tuukka Vesa, Avoda Solutions OÜ  
+**Status:** Canonical Definition (v1.0)  
 **DOI:** [![DOI](https://zenodo.org/badge/1134327429.svg)](https://doi.org/10.5281/zenodo.18246532)
 
+---
 
-**Intellectual Property & GovernanceAuthor & Inventor:** Tuukka Vesa (ORCID/DOI:[![DOI](https://zenodo.org/badge/1134327429.svg)](https://doi.org/10.5281/zenodo.18246532)
+## Intellectual Property & Governance
 
-**Trademark Holder:** "Physics of Digital Transformation" and the equation $O=(N^2) \rightarrow [UNS] \rightarrow O=(N) \wedge I4^2$ are proprietary trademarks of Avoda Solutions OÜ.
+**Author & Inventor:** Tuukka Vesa  
+**Trademark Holder:** "Physics of Digital Transformation" and the equation $O=(N^2) \rightarrow [UNS] \rightarrow O=(N) \wedge I4^2$ are common law trademarks of **Avoda Solutions OÜ**, first used commercially January 2026. All rights reserved.  
+**License:** [CC-BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) (Attribution-NonCommercial-NoDerivatives)
 
-**Usage Rights:** This work is licensed under CC-BY-ND 4.0. While the logic is shared for the benefit of the industry, the commercial identity and specific notation remain the exclusive property of Avoda Solutions OÜ.
+## License Terms & Permitted Uses
+
+**Permitted:**
+* ✓ Internal organizational assessment and educational use.
+* ✓ Citation in academic, technical, or journalistic publications with attribution.
+* ✓ Sharing the original, unmodified work with peers and leadership.
+
+**Prohibited:**
+* ✗ **Commercial Use:** Using this framework, notation, or trademark to provide paid consulting, training, or software services without a commercial license from Avoda Solutions OÜ.
+* ✗ **Derivatives:** Modifying the mathematical framework or equation to create "new" models.
+* ✗ **Misrepresentation:** Suggesting endorsement or partnership with Avoda Solutions OÜ without a written agreement.
+
+**Attribution Requirements:**
+When citing or sharing this work, you must include:
+1. **Author:** Tuukka Vesa
+2. **Company:** Avoda Solutions OÜ
+3. **DOI Link:** [https://doi.org/10.5281/zenodo.18246532](https://doi.org/10.5281/zenodo.18246532)
+
+---
+
+## The General Equation
+
+The transition from Industry 3.0 to Industry 4.0 is defined by a topological state change:
+
+$$O=(N^2) \rightarrow [UNS] \rightarrow O=(N) \wedge I4^2$$
 
 
+
+**Where:**
+* **$O$**: Organizational Complexity
+* **$N$**: Number of Operational Elements
+* **$[UNS]$**: The Geometric Catalyst (Unified Namespace)
+* **$I4^2$**: Industry 4.0 Capacity (Exponential Relocation)
+
+---
+
+## Legal Jurisdiction
+This work and all associated intellectual property rights are governed by the laws of **Estonia**. Any disputes shall be subject to the exclusive jurisdiction of Estonian courts.
+
+For commercial licensing, engagement inquiries, or trademark usage permissions, contact: **[Insert Your Email Here]**
+
+---
+*© 2026 Tuukka Vesa / Avoda Solutions OÜ.*
 ## The General Equation
 The transition from Industry 3.0 to Industry 4.0 is defined by a topological state change:
 
