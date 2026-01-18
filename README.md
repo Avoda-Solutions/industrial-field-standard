@@ -9,7 +9,7 @@
 **DOI:** [![DOI](https://zenodo.org/badge/1134327429.svg)](https://doi.org/10.5281/zenodo.18246532)
 
 
-**Intellectual Property & GovernanceAuthor & Inventor:** Tuukka Vesa (ORCID/DOI:(https://zenodo.org/badge/1134327429.svg)](https://doi.org/10.5281/zenodo.18246532)
+**Intellectual Property & GovernanceAuthor & Inventor:** Tuukka Vesa (ORCID/DOI:[![DOI](https://zenodo.org/badge/1134327429.svg)](https://doi.org/10.5281/zenodo.18246532)
 
 **Trademark Holder:** "Physics of Digital Transformation" and the equation $O=(N^2) \rightarrow [UNS] \rightarrow O=(N) \wedge I4^2$ are proprietary trademarks of Avoda Solutions OÜ.
 
