@@ -12,6 +12,10 @@
 **Trademark Holder:** "Physics of Digital Transformation" and the equation $O=(N^2) \rightarrow [UNS] \rightarrow O=(N) \wedge I4^2$ are common law trademarks of **Avoda Solutions OÜ**, first used commercially January 2026. All rights reserved.  
 **License:** [CC-BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) (Attribution-NonCommercial-NoDerivatives)
 
+Note: "Unified Namespace" is an established industry term used here 
+as a mathematical variable representing the geometric catalyst in 
+digital transformation.
+```
 ## License Terms & Permitted Uses
 
 **Permitted:**
