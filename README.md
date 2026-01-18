@@ -15,7 +15,7 @@
 Note: "Unified Namespace" is an established industry term used here 
 as a mathematical variable representing the geometric catalyst in 
 digital transformation.
-```
+
 ## License Terms & Permitted Uses
 
 **Permitted:**
