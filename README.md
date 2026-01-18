@@ -5,6 +5,9 @@
 **Status:** Canonical Definition (v1.0)
 **DOI:** [![DOI](https://zenodo.org/badge/1134327429.svg)](https://doi.org/10.5281/zenodo.18246532)
 
+Intellectual Property & GovernanceAuthor & Inventor: Tuukka Vesa (ORCID/DOI:(https://zenodo.org/badge/1134327429.svg)](https://doi.org/10.5281/zenodo.18246532)
+Trademark Holder: "Physics of Digital Transformation" and the equation $O=(N^2) \rightarrow [UNS] \rightarrow O=(N) \wedge I4^2$ are proprietary trademarks of Avoda Solutions OÜ.Usage Rights: This work is licensed under CC-BY-ND 4.0. While the logic is shared for the benefit of the industry, the commercial identity and specific notation remain the exclusive property of Avoda Solutions OÜ.
+
 
 ## The General Equation
 The transition from Industry 3.0 to Industry 4.0 is defined by a topological state change:
