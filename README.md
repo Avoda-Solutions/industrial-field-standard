@@ -115,4 +115,18 @@ The exponential cannot be destroyed. It is a property of the network (Metcalfe's
 The same mathematical force that used to limit your scale now powers it.
 
 ---
-*© 2026 Tuukka Vesa / Avoda Solutions OÜ.*
+## Legal Jurisdiction & Enforcement
+
+This work and all associated intellectual property rights are governed 
+by the laws of Estonia. Any disputes arising from the use, distribution, 
+or interpretation of this license shall be subject to the exclusive 
+jurisdiction of the courts of Tallinn, Estonia.
+
+**Commercial Licensing Inquiries:** info@avoda.solutions
+
+**Attribution Requirement:**  
+Cite as: Vesa, T. (2026). Physics of Digital Transformation. 
+https://doi.org/10.5281/zenodo.18246532
+---
+
+*© 2026 Tuukka Vesa / Avoda Solutions OÜ. All rights reserved.*
