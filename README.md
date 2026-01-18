@@ -128,7 +128,7 @@ jurisdiction of the courts of Tallinn, Estonia.
 
 **Commercial Licensing Inquiries:** info@avoda.solutions
 
-**Citation:**  
+*Citation:*  
 See [CITATION.cff](CITATION.cff) for proper citation format, or cite via DOI: https://doi.org/10.5281/zenodo.18246532
 ---
 
