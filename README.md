@@ -124,9 +124,8 @@ jurisdiction of the courts of Tallinn, Estonia.
 
 **Commercial Licensing Inquiries:** info@avoda.solutions
 
-**Attribution Requirement:**  
-Cite as: Vesa, T. (2026). Physics of Digital Transformation. 
-https://doi.org/10.5281/zenodo.18246532
+**Citation:**  
+See [CITATION.cff](CITATION.cff) for proper citation format, or cite via DOI: https://doi.org/10.5281/zenodo.18246532
 ---
 
 *© 2026 Tuukka Vesa / Avoda Solutions OÜ. All rights reserved.*
