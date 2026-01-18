@@ -36,29 +36,8 @@ When citing or sharing this work, you must include:
 
 ---
 
-## The General Equation
-
-The transition from Industry 3.0 to Industry 4.0 is defined by a topological state change:
-
-$$O=(N^2) \rightarrow [UNS] \rightarrow O=(N) \wedge I4^2$$
-
-
-
-**Where:**
-* **$O$**: Organizational Complexity
-* **$N$**: Number of Operational Elements
-* **$[UNS]$**: The Geometric Catalyst (Unified Namespace)
-* **$I4^2$**: Industry 4.0 Capacity (Exponential Relocation)
-
 ---
 
-## Legal Jurisdiction
-This work and all associated intellectual property rights are governed by the laws of **Estonia**. Any disputes shall be subject to the exclusive jurisdiction of Estonian courts.
-
-For commercial licensing, engagement inquiries, or trademark usage permissions, contact: **[Insert Your Email Here]**
-
----
-*© 2026 Tuukka Vesa / Avoda Solutions OÜ.*
 ## The General Equation
 The transition from Industry 3.0 to Industry 4.0 is defined by a topological state change:
 
