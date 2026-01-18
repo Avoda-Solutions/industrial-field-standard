@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this framework, please cite it as below."
+authors:
+  - family-names: Vesa
+    given-names: Tuukka
+    orcid: https://orcid.org/0009-0005-0948-961X
+    affiliation: Avoda Solutions OÜ
+title: "Physics of Digital Transformation"
+version: 1.0.0
+doi: 10.5281/zenodo.18246532
+date-released: 2026-01-14
+url: "https://github.com/Avoda-Solutions/physics-of-digital-transformation"
+license: CC-BY-NC-ND-4.0
+repository-code: "https://github.com/Avoda-Solutions/physics-of-digital-transformation"
+keywords:
+  - digital transformation
+  - Industry 4.0
+  - unified namespace
+  - organizational complexity
+  - manufacturing
