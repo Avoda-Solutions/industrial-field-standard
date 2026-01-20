@@ -55,7 +55,7 @@ The **NonCommercial (NC)** clause protects the framework's integrity while enabl
 
 The **trademark protection** prevents hostile takeover of the intellectual asset. While the framework itself is freely accessible, the trademark ensures the author retains control over the framework's identity and prevents appropriation by parties seeking to claim ownership or redirect its development.
 
-**This is not gatekeeping—it's field stabilization.** The framework is freely available for study and non-commercial use. The license prevents the fragmentation and commercialization patterns that have degraded other transformation methodologies.
+**This is not gatekeeping—it's field stabilization.** The framework is freely available for study and non-commercial use. The license prevents the fragmentation and commercialization patterns that have historically diluted work in the industrial field.
 
 The mathematics either works or it doesn't. These terms ensure it remains testable, falsifiable, and structurally coherent as the field evaluates its validity.
 
