@@ -78,7 +78,7 @@ The "80% Failure Rate" of digital transformations is a direct result of attempti
 
 ### Axiom V: The Paradigm Shift (Phase Transition of the Operating Model)
 
-The transition from Industry 3.0 to Industry 4.0 is a **Topological Phase Transition**. It is the shift from an architecture of Sequential Dependency to an architecture of Geometric Autonomy.
+The paradigm transition from Industry 3.0 to Industry 4.0 is fundamentally a **Topological Phase Transition**. It is the shift from an architecture of Sequential Euclidean Linearity to an architecture of Geometric Non-Euclidean Topology.
 
 #### 5.1 The Nature of the Shift
 
