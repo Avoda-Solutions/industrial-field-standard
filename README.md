@@ -36,7 +36,6 @@ When citing or sharing this work, you must include:
 
 ---
 
----
 
 ## The General Equation
 The transition from Industry 3.0 to Industry 4.0 is defined by a topological state change:
@@ -123,7 +122,7 @@ jurisdiction of the courts of Tallinn, Estonia.
 
 **Commercial Licensing Inquiries:** info@avoda.solutions
 
-*Citation:*  
+**Citation:** 
 See [CITATION.cff](CITATION.cff) for proper citation format, or cite via DOI: https://doi.org/10.5281/zenodo.18246532
 ---
 
