@@ -40,9 +40,9 @@ $$O=(N^2) \rightarrow [UNS] \rightarrow O=(N) \wedge I4^2$$
 
 The rigorous mathematical and systemic proofs for this framework are maintained in the canonical **[axioms.md](axioms.md)** file. This includes:
 
-1. **The Law of Quadratic Entanglement:** Why Euclidean, sequential architectures inevitably collapse under their own metabolic weight
+1. **The Principle of Quadratic Entanglement:** Why Euclidean, sequential architectures inevitably collapse under their own metabolic weight
 2. **The Principle of Geometric Catalysis:** How changing the system structure (Meadows #2) dissolves structural bottlenecks
-3. **The Law of Non-Euclidean Scale:** The manifestation of frictionless scaling on a geometric manifold
+3. **The Principle of Non-Euclidean Scale:** The manifestation of frictionless scaling on a geometric manifold
 4. **The Conservation of the Exponent:** The relocation of the network's inherent power from Constraint to Capacity
 
 ---
