@@ -82,7 +82,7 @@ The paradigm transition from Industry 3.0 to Industry 4.0 is fundamentally a **T
 
 #### 5.1 The Nature of the Shift
 
-- **Not Incremental Optimization:** Paradigm change is not achieved by increasing the efficiency of O(N²) processes. Incrementalism in a sequential framework only delays the Bifurcation Point; it does not prevent it.
+- **Not Incremental Optimization:** Paradigm change is not achieved by increasing the efficiency of O(N²) processes. Incrementalism in a sequential framework only delays the System Bifurcation Point; it does not prevent it.
 
 - **The Inversion of Truth:** In Industry 3.0, "Truth" is a derivative of translation (data must move through layers to be validated). In Industry 4.0, "Truth" is a property of the substrate (the coordinate system provides immediate, high-fidelity context).
 
@@ -100,7 +100,7 @@ This manifestation is the direct result of **Relocating the Exponent**.
 
 - **The Sequential Trap:** Industry 3.0 is a Euclidean mesh where every connection is a liability and a drain on metabolic energy.
 
-- **The Geometric Manifold:** Industry 4.0 is a Non-Euclidean manifold where the [UNS] provides the "Oxygen" of instantaneous context, allowing nodes to operate with total autonomy without increasing systemic friction.
+- **The Geometric Manifold:** Industry 4.0 is a Non-Euclidean manifold where the [UNS] provides the instantaneous context, allowing nodes to operate with total autonomy without increasing systemic friction.
 
 #### 5.4 Architectural Irreversibility
 
