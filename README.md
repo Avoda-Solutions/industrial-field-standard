@@ -97,6 +97,22 @@ The exponential cannot be destroyed. It is a property of the network (Metcalfe's
 
 The same mathematical force that used to limit your scale now powers it.
 
+## Licensing Philosophy
+
+This framework is released under **CC BY-NC-ND 4.0** (Attribution-NonCommercial-NoDerivatives) with a specific purpose: **preservation and immutability**.
+
+### Why These Restrictions
+
+The **NoDerivatives (ND)** clause ensures the mathematical framework remains structurally intact as it propagates through the field. Digital transformation discourse suffers from semantic drift—concepts fragment into competing variants, losing precision and creating confusion. By preventing derivatives, this license maintains a **stable reference standard** that the industry can adopt with confidence.
+
+The **NonCommercial (NC)** clause protects the framework's integrity while enabling free use for research, education, and internal evaluation. Commercial applications require engagement to ensure proper implementation within the framework's geometric principles.
+
+The **trademark protection** prevents hostile takeover of the intellectual asset. While the framework itself is freely accessible, the trademark ensures the author retains control over the framework's identity and prevents appropriation by parties seeking to claim ownership or redirect its development.
+
+**This is not gatekeeping—it's field stabilization.** The framework is freely available for study and non-commercial use. The license prevents the fragmentation and commercialization patterns that have degraded other transformation methodologies.
+
+The mathematics either works or it doesn't. These terms ensure it remains testable, falsifiable, and structurally coherent as the field evaluates its validity.
+
 ---
 ## Legal Jurisdiction & Enforcement
 
