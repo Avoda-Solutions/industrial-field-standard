@@ -23,7 +23,7 @@ $$O=(N^2) \rightarrow [UNS] \rightarrow O=(N) \wedge I4^2$$
 
 ## 2. The Axioms of Manufacturing Topology
 
-### Axiom I: The Law of Quadratic Entanglement (Euclidean Industry 3.0)
+### Axiom I: The Principle of Quadratic Entanglement, Euclidean (Industry 3.0)
 
 In sequential, Euclidean architecture, every new node requires a physical/logical "line" to existing nodes, causing complexity to grow quadratically.
 
@@ -45,7 +45,7 @@ Governed by **Meadows' Leverage Points (1999):** "The highest leverage point is 
 
 ---
 
-### Axiom III: The Law of Non-Euclidean Scale (Industry 4.0)
+### Axiom III: The Principle of Geometric Scale, Non-Euclidean (Industry 4.0)
 
 Once the substrate is geometric (Non-Euclidean), nodes exist as addresses on a manifold rather than ends of a string.
 
@@ -56,7 +56,7 @@ Once the substrate is geometric (Non-Euclidean), nodes exist as addresses on a m
 
 ---
 
-### Axiom IV: The Conservation Principle (The Law of Exponent Relocation)
+### Axiom IV: The Conservation Principle (The Exponent Relocation)
 
 The exponential factor (²) is a fundamental constant of networked systems (Metcalfe's Law) that cannot be neutralized. It is an immutable property of connectivity that must manifest in one of two binary states: **Systemic Weight** or **Operational Capacity**.
 
