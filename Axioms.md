@@ -1,3 +1,4 @@
+
 # The Physics of Digital Transformation: Axioms & Theorems
 
 **Author:** Tuukka Vesa, Avoda Solutions OÜ  
@@ -66,13 +67,17 @@ The exponential factor (²) is a fundamental constant of networked systems (Metc
 
 - **Industry 4.0 (Geometric Capacity):** In a Non-Euclidean/geometric topology, the exponent acts as Scaling Capacity (I4²). By utilizing the [UNS] as a coordinate system, the quadratic cost is collapsed into the substrate, allowing the network's inherent power to drive exponential output rather than exponential friction.
 
-#### 4.2 The Impossibility of Debugging Topology
+#### 4.2 The Optimization Fallacy
 
-The "80% Failure Rate" of digital transformations is a direct result of attempting to solve a topological problem with tactical optimizations.
+- The "80% Failure Rate" of digital transformations is a direct result of attempting to solve a topological problem with tactical optimizations.
 
-- **Optimization Fallacy:** Attempting to reduce N or improve "alignment" within a sequential framework does not change the exponent; it only hides the friction temporarily.
+- **The Fallacy:** Attempting to reduce N or improve "alignment" within a sequential framework does not change the exponent; it only hides the friction temporarily.
 
-- **The State Change:** You cannot debug sequential architecture into geometric behavior. Digital Transformation is not a "project"—it is the physical act of relocating the exponent from the denominator of Complexity to the numerator of Capability.
+#### 4.3 The State Change
+
+- **"You cannot optimize sequential architecture into geometric behavior."**
+
+Digital Transformation is not an optimization project—it is the physical act of **Relocating the Exponent**. It is the transition where the quadratic factor (²) ceases to act as Systemic Friction (N²) and is redirected to function as Exponential Scaling Capacity (I4²).
 
 ---
 
