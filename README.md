@@ -70,7 +70,7 @@ The **trademark protection** prevents hostile takeover of the intellectual asset
 
 **This is not gatekeeping—it's field stabilization.** The framework is freely available for study and non-commercial use. The license prevents the fragmentation and commercialization patterns that have historically diluted work in the industrial field.
 
-The mathematics either works or it doesn't. These terms ensure it remains testable, falsifiable, and structurally coherent as the field evaluates its validity.
+These terms ensure it remains testable and structurally coherent as the field evaluates its validity.
 
 ---
 
