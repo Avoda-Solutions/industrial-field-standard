@@ -38,12 +38,25 @@ $$O=(N^2) \rightarrow [UNS] \rightarrow O=(N) \wedge I4^2$$
 
 ## Structural Proofs (The Axioms)
 
-The rigorous mathematical and systemic proofs for this framework are maintained in the canonical **[Axioms.md](Axioms.md)** file. This includes:
+The rigorous mathematical and systemic proofs for this framework are maintained in the canonical **[axioms.md](axioms.md)** file. This documentation defines the transition from Linear Restriction to Topological Manifold through the following governing principles:
 
-1. **The Principle of Quadratic Entanglement:** Why Euclidean, sequential architectures inevitably collapse under their own metabolic weight
-2. **The Principle of Geometric Catalysis:** How changing the system structure (Meadows #2) dissolves structural bottlenecks
-3. **The Principle of Non-Euclidean Scale:** The manifestation of frictionless scaling on a geometric manifold
-4. **The Conservation of the Exponent:** The relocation of the network's inherent power from Constraint to Capacity
+- **The Principle of Quadratic Entanglement (Axiom I):** Defines why Euclidean, sequential architectures inevitably collapse under their own metabolic weight (O=N²).
+
+- **The Principle of Geometric Catalysis (Axiom II):** Identifies the [UNS] as a Meadows #2 Leverage Point, changing the system structure to dissolve rather than "solve" bottlenecks.
+
+- **The Principle of Non-Euclidean Scale (Axiom III):** Describes the manifestation of frictionless scaling once nodes inhabit a state-addressable manifold.
+
+- **The Conservation Principle (Axiom IV):** Establishes that the network exponent is a fundamental constant that must be redirected from Systemic Friction (N²) into Exponential Scaling Capacity (I4²).
+
+- **The Paradigm Shift (Axiom V):** Defines the irreversible Topological Phase Transition from an architecture of translation to an architecture of inhabitation.
+
+---
+
+### The Optimization Fallacy
+
+Attempting to reduce N or improve "alignment" within a sequential framework does not change the exponent; it only hides the friction temporarily.
+
+**"You cannot optimize sequential architecture into geometric behavior."**
 
 ---
 
