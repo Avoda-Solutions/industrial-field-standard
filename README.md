@@ -1,7 +1,7 @@
 # The Physics of Digital Transformation
 
 **Author:** Tuukka Vesa, Avoda Solutions OÜ  
-**Status:** Canonical Definition (v1.0.4)  
+**Status:** Canonical Definition (v1.0.5)  
 **DOI:** [10.5281/zenodo.18246532](https://doi.org/10.5281/zenodo.18246532)
 
 ---
