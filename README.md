@@ -38,7 +38,7 @@ $$O=(N^2) \rightarrow [UNS] \rightarrow O=(N) \wedge I4^2$$
 
 ## Structural Proofs (The Axioms)
 
-The rigorous mathematical and systemic proofs for this framework are maintained in the canonical **[axioms.md](axioms.md)** file. This documentation defines the transition from Linear Restriction to Topological Manifold through the following governing principles:
+The rigorous mathematical and systemic proofs for this framework are maintained in the canonical **[Axioms.md](Axioms.md)** file. This documentation defines the transition from Linear Restriction to Topological Manifold through the following governing principles:
 
 - **The Principle of Quadratic Entanglement (Axiom I):** Defines why Euclidean, sequential architectures inevitably collapse under their own metabolic weight (O=N²).
 
