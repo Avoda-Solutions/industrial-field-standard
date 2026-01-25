@@ -52,17 +52,42 @@ Fields interpenetrate rather than stack — there are no hard boundaries, only g
 
 ---
 
-## 4. Tensor Nodes
+## 4. Tensor Nodes & The 8-DOM
 
-A tensor node is the fundamental unit of the manifold — a discrete operational element modeled as a multi-dimensional state vector.
+A Tensor Node is the fundamental unit of the manifold—a discrete operational element modeled as a multi-dimensional state vector. The internal state of a node within the meso-field is defined by the 8-Dimensional Organizational Model (8-DOM), where each dimension represents a coordinate axis for that node.
 
-### 4.1 Properties
+**4.1 The 8-DOM: Environmental Reality**
 
-| Property | Description |
-|----------|-------------|
-| Positional inheritance | Tensor Node identity derives from manifold coordinates, not integration endpoints |
-| Multi-dimensional state | Tensor Nodes carry state across multiple dimensions simultaneously (operational status, quality parameters, resource consumption, temporal position) |
-| Geometric coupling | Tensor Nodes maintain coherence through field relationships, not explicit point-to-point synchronization |
+The 8-DOM consists of eight interpenetrating functional dimensions. Assigning each a numerical index ($i$) and a Greek letter ($\delta_i$) allows for the precise mapping of meso-field tensor-vector relations:
+
+- $\tau$ (**Tau**) — **Temporal:** The Tensor Node's temporal state; including coordination and planning cycles.
+- $\chi$ (**Chi**) — **Spatial:** The Tensor Node's physical location and geographic distribution.
+- $\phi$ (**Phi**) — **Operational:** The Tensor Node's production flow and process execution state.
+- $\epsilon$ (**Epsilon**) — **Environmental:** The Tensor Node's coupling with external supply chain and market dynamics.
+- $\iota$ (**Iota**) — **Technical:** The Tensor Node's data infrastructure and connectivity state.
+- $\omicron$ (**Omicron**) — **Organizational:** The Tensor Node's position within structure and coordination pathways.
+- $\sigma$ (**Sigma**) — **Symbolic:** The Tensor Node's semantic alignment and shared language state.
+- $\psi$ (**Psi**) — **Individual:** The Tensor Node's capacity for human agency and decision-making.
+
+**4.2 Matrix Derivation: Cross-Dimensional Causal Links**
+
+When an organization achieves geometric system maturity, the $8 \times 8$ matrix ($M_{ij}$) allows for the measurement of specific cross-dimensional impacts, moving from vague symptoms to deterministic tensor-vector relations.
+
+#### Primary Relation: Environmental ($\epsilon$) $\to$ Operational ($\phi$)
+
+- **The Relationship:** $M_{\epsilon\phi}$ quantifies how external volatility penetrates and alters internal Operational ($\phi$) emittance.
+
+- **The Observation:** The manifold identifies a specific shift in the Tensor Node's coordinates; a change in Environmental ($\epsilon$) at the macro scale propagates as a boundary condition forcing a shift in Operational ($\phi$) setpoints.
+
+- **Geometric Visibility:** Under Synchronous State Representation (Section 6), the real-time deflection of the operational vector $\phi$ is observed as a direct function of the environmental coordinate $\epsilon$.
+
+#### Secondary/Systemic Relation: $\phi$ (Operational) $\to \psi$ (Individual)
+
+- **Systemic Chain:** A perturbation starting at $\epsilon$ (Environmental) that deflects the Tensor Node's $\phi$ (Operational) state eventually manifests as a constraint on its Individual ($\psi$) state.
+
+- **The Result:** The relationship $M_{\phi\psi}$ allows the organization to observe how operational volatility reduces the node's capacity for Individual ($\psi$) action.
+
+- **Deterministic Management:** Managers no longer address "burnout" as an abstract concept; they manage it as a measurable deflection in the $\psi$ vector caused by structural imbalances in the $\phi$ and $\epsilon$ coordinates of the Tensor Node.
 
 ---
 
