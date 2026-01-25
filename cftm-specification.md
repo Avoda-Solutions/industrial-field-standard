@@ -52,13 +52,21 @@ Fields interpenetrate rather than stack — there are no hard boundaries, only g
 
 ---
 
-## 4. Tensor Nodes & The 8-DOM
+## 4. Tensor Nodes
 
 A Tensor Node is the fundamental unit of the manifold—a discrete operational element modeled as a multi-dimensional state vector. The internal state of a node within the meso-field is defined by the 8-Dimensional Organizational Model (8-DOM), where each dimension represents a coordinate axis for that node.
 
-**4.1 The 8-DOM: Environmental Reality**
+**4.1 The 8-DOM: Operational Reality**
 
 The 8-DOM consists of eight interpenetrating functional dimensions. Assigning each a numerical index ($i$) and a Greek letter ($\delta_i$) allows for the precise mapping of meso-field tensor-vector relations:
+
+Macro Field (Ecosystem)
+    ↓ couples with ↓
+Meso Field (Organizational) ← 8-DOM defines the dimensional structure here
+    │
+    └── Contains/orchestrates Micro Field elements
+            │
+            └── Sensors, PLCs, SCADA, MES, ERP, AI/ML, Cloud
 
 - $\tau$ (**Tau**) — **Temporal:** The Tensor Node's temporal state; including coordination and planning cycles.
 - $\chi$ (**Chi**) — **Spatial:** The Tensor Node's physical location and geographic distribution.
