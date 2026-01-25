@@ -93,17 +93,19 @@ The paradigm transition from Industry 3.0 to Industry 4.0 is fundamentally a **T
 
 #### 5.2 The Manifestation of Geometric Reality
 
-The paradigm shift manifests at the precise moment the organization stops "managing data" as a series of point-to-point transactions and starts **inhabiting a geometry**.
+The paradigm shift manifests at the precise moment the organization stops "managing data" as a series of point-to-point transactions and starts **inhabiting a geometry** by consuming its source-normalized real-time events, thereby gaining universal real-time visibility and operability.
 
-- **From Translation to Inhabitation:** In the legacy paradigm, data is an external object that must be moved and translated (High Entropy). In the geometric paradigm, data is a coordinate within a stable, addressable substrate (Low Entropy).
+- **From Transactional Middleware to Geometric Inhabitation:** In Industry 3.0, data is a static payload trapped in point-to-point request-response cycles. In the geometric paradigm, the organization **inhabits a Unified Namespace [UNS]**, where the topology is defined by a consistent, hierarchical coordinate system—typically structured according to ISA-95 part 2 (Enterprise, Site, Area, Line, Cell).
 
-- **The Inversion of Truth:** "Truth" ceases to be a derivative of successful translation across layers and becomes an inherent property of the Unified Namespace ([UNS]).
+- **Source-Normalized Event Streams (MQTT/JSON):** "Inhabitation" is functionally achieved when discrete nodes (producers) publish source-normalized Report-by-Exception (RBE) event streams. While the framework is protocol-agnostic, the standard industrial implementation utilizes normalized **JSON payloads** published via **MQTT brokers**. Because data is modeled at the source, any subscriber can consume the current state representation without further translation, mapping, or transformation.
+
+- **Operability as a Geometric Function:** Visibility and operability cease to be features of individual applications and become inherent properties of the substrate. Because the event stream is source-normalized and real-time, the organization operates on the current state representation of the entire system simultaneously, collapsing the `O(N²)` integration friction into `O(N)` accessibility.
 
 #### 5.3 The Mechanism of Sovereignty
 
 This manifestation is the direct result of **Relocating the Exponent**.
 
-- **The Sequential Trap:** Industry 3.0 is a Euclidean mesh where every connection is a liability and a drain on metabolic energy.
+- **The Sequential Organizaion:** Industry 3.0 is a Euclidean mesh where every connection is a liability and a drain on metabolic energy.
 
 - **The Geometric Manifold:** Industry 4.0 is a Non-Euclidean manifold where the [UNS] provides the instantaneous context, allowing nodes to operate with total autonomy without increasing systemic friction.
 
