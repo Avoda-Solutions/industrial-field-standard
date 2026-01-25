@@ -2,7 +2,7 @@
 # The Physics of Digital Transformation: Axioms & Theorems
 
 **Author:** Tuukka Vesa, Avoda Solutions OÜ  
-**Standard Version:** 1.0.5 (Canonical)  
+**Standard Version:** 1.0.6 (Canonical)  
 **License:** CC BY-NC-ND 4.0
 **DOI:** [![DOI](https://zenodo.org/badge/1134327429.svg)](https://doi.org/10.5281/zenodo.18246532)
 
