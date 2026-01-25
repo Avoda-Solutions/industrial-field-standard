@@ -5,7 +5,7 @@
 **License:** CC BY-NC-ND 4.0  
 **DOI:** [![DOI](https://zenodo.org/badge/1134327429.svg)](https://doi.org/10.5281/zenodo.18246532)
 
-**Prerequisite:** This specification assumes familiarity with *The Physics of Digital Transformation: Axioms & Theorems* (Vesa, 2026), which defines the mathematical foundations referenced herein.
+**Prerequisite:** This specification assumes familiarity with [The Physics of Digital Transformation: Axioms & Theorems](Axioms.md) (Vesa, 2026), which defines the mathematical foundations referenced herein.
 
 ---
 
@@ -68,7 +68,7 @@ A tensor node is the fundamental unit of the manifold — a discrete operational
 
 ## 5. Coordinate System
 
-The manifold requires a coordinate system providing universal addressability. The standard industrial implementation utilizes typically ISA-95 Part 2 hierarchy:
+The manifold requires a coordinate system providing universal addressability. The standard industrial implementation typically utilizes ISA-95 Part 2 hierarchy:
 
 $$\text{Enterprise} \to \text{Site} \to \text{Area} \to \text{Line} \to \text{Cell}$$
 
