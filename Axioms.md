@@ -69,7 +69,7 @@ The exponential factor (²) is a fundamental constant of networked systems (Metc
 
 #### 4.2 The Optimization Fallacy
 
-- The "80% Failure Rate" of digital transformations is a direct result of attempting to solve a topological problem with tactical optimizations.
+- The "up to 80% Failure Rate" of digital transformations is a direct result of attempting to solve a topological problem with tactical optimizations.
 
 - **The Fallacy:** Attempting to reduce N or improve "alignment" within a sequential framework does not change the exponent; it only hides the friction temporarily.
 
@@ -101,19 +101,17 @@ The paradigm shift manifests at the precise moment the organization stops "manag
 
 - **Operability as a Geometric Function:** Visibility and operability cease to be features of individual applications and become inherent properties of the substrate. Because the event stream is source-normalized and real-time, the organization operates on the current state representation of the entire system simultaneously, collapsing the `O(N²)` integration friction into `O(N)` accessibility.
 
-#### 5.3 The Mechanism of Sovereignty
+#### 5.3 The Geometric Steady State (Quadratic Capacity)
 
-This manifestation is the direct result of **Relocating the Exponent**.
+The relocation of the exponent from Systemic Constraint ($O=N^2$) to Scaling Capacity ($I4^2$) completes the phase transition. The end state is an organization defined by Geometric Sovereignty, where scale generates non-linear capability rather than non-linear friction.
 
-- **The Sequential Organizaion:** Industry 3.0 is a Euclidean mesh where every connection is a liability and a drain on metabolic energy.
+**The Conservation Principle:** The exponential factor ($^2$) is an immutable property of networked systems that cannot be destroyed; it is either manifested as Organizational Weight (Industry 3.0) or Operational Capacity (Industry 4.0).
 
-- **The Geometric Manifold:** Industry 4.0 is a Non-Euclidean manifold where the [UNS] provides the instantaneous context, allowing nodes to operate with total autonomy without increasing systemic friction.
+**Geometric Linearization ($O=N$):** By inheriting a unified coordinate system (UNS), nodes exist as addresses on a manifold rather than ends of a string. Complexity folds into self-similar patterns, allowing expansion to remain proportional to $N$ as the substrate internalizes the coordination cost.
 
-#### 5.4 Architectural Irreversibility
+**The Scaling Inversion (Reed's Law):** While Metcalfe explained simple network value, the geometric architecture captures Reed's Law (1999), where network value scales at $2^N$. With the elimination of translation layers, the "bifurcation limit" vanishes, and the exponent is redirected to power autonomous group value and infinite data contexts.
 
-Once the exponent has been relocated from Constraint (O=N²) to Capacity (I4²), the state change is **irreversible**. The organization has transitioned from a system that is "crushed by scale" to a system that is "powered by scale". 
-
-Any attempt to revert to sequential logic after this transition results in immediate structural collapse, as the new operational speed exceeds the processing limits of legacy Euclidean architecture.
+**The Inversion of Metabolic Cost:** In the legacy state, every new node increases the metabolic energy required to maintain synchronization ($N^2$). Post-transition, the inherent quadratic power of the network drives output and Surface Area for Innovation.
 
 ---
 
