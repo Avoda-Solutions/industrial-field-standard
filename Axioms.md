@@ -20,6 +20,8 @@ $$O=(N^2) \rightarrow [UNS] \rightarrow O=(N) \wedge I4^2$$
 - **[UNS] (Catalyst):** The Unified Namespace; a coordinate system providing dimensional separation
 - **I4² (Capacity):** The exponential capability and scalability of the Industry 4.0 paradigm
 
+The architectural framework instantiating this geometric substrate is defined in the [Coupled-Field Tensor Manifold: Technical Specification](cftm-specification.md) (Vesa, 2026).
+
 ---
 
 ## 2. The Axioms of Manufacturing Topology
@@ -117,7 +119,7 @@ The relocation of the exponent from Systemic Constraint ($O=N^2$) to Scaling Cap
 
 ## Licensing & Trademark Notice
 
-**Trademarks:** "Physics of Digital Transformation" and the symbolic equation O=(N²) → [UNS] → O=(N) ∧ I4² are proprietary trademarks of Avoda Solutions OÜ.
+**Trademarks:** "Physics of Digital Transformation" and the symbolic equation O=(N²) → [UNS] → O=(N) ∧ I4² are pending ™ trademarks of Avoda Solutions OÜ.
 
 **License:** This framework is released under CC BY-NC-ND 4.0 for field stabilization. Commercial use requires engagement with the author to ensure proper implementation of geometric principles.
 ```
