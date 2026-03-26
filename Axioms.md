@@ -109,7 +109,7 @@ The relocation of the exponent from Systemic Constraint ($O=N^2$) to Scaling Cap
 
 **The Conservation Principle:** The exponential factor ($^2$) is an immutable property of networked systems that cannot be destroyed; it is either manifested as Organizational Weight (Industry 3.0) or Operational Capacity (Industry 4.0).
 
-**Geometric Linearization ($O=N$):** By inheriting a unified coordinate system (UNS), nodes exist as addresses on a manifold rather than ends of a string. Complexity folds into self-similar patterns, allowing expansion to remain proportional to $N$ as the substrate internalizes the coordination cost.
+**Geometric Inhabitation ($O=N$):** By inheriting a unified coordinate system (UNS), nodes exist as addresses on a manifold rather than ends of a string. Complexity folds into self-similar patterns, allowing expansion to remain proportional to $N$ as the substrate internalizes the coordination cost.
 
 **The Scaling Inversion (Reed's Law):** While Metcalfe explained simple network value, the geometric architecture captures Reed's Law (1999), where network value scales at $2^N$. With the elimination of translation layers, the "bifurcation limit" vanishes, and the exponent is redirected to power autonomous group value and infinite data contexts.
 
