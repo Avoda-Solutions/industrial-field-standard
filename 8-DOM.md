@@ -1,9 +1,8 @@
-[8-dom-specification-v1.1.md](https://github.com/user-attachments/files/24992085/8-dom-specification-v1.1.md)
-# 8-Dimensional Organizational Model (8-DOM): Technical Specification
+markdown# 8-Dimensional Organizational Model (8-DOM): Technical Specification
 
 **Author:** Tuukka Vesa, Avoda Solutions OÜ  
 **Standard Version:** 1.1.0  
-**License:** License: CC BY-ND 4.0. 
+**License:** CC BY-ND 4.0
 
 **Prerequisite:** This specification assumes familiarity with [The Physics of Digital Transformation: Axioms & Theorems](Axioms.md) and the [Coupled-Field Tensor Manifold: Technical Specification](cftm-specification.md) (Vesa, 2026).
 
@@ -11,9 +10,9 @@
 
 ## 1. Tensor Nodes
 
-A Tensor Node is the fundamental unit of the manifold—a discrete operational element modeled as a multi-dimensional state vector. The internal state of a node within the meso-field is defined by the 8-Dimensional Organizational Model (8-DOM), where each dimension represents a coordinate axis for that node.
+The 8-DOM introduces the Tensor Node as the fundamental unit of the manifold — a discrete operational element modelled as a multi-dimensional state vector. The internal state of a node within the meso-field is expressed across eight coordinate axes, each representing a functional dimension of the organisation.
 
-### 1.1 The 8-DOM: Operational Reality
+### 1.1 The 8-DOM: Dimensional Structure
 
 The 8-DOM consists of eight interpenetrating functional dimensions. Assigning each a numerical index ($i$) and a Greek letter ($\delta_i$) allows for the precise mapping of meso-field tensor-vector relations:
 
@@ -28,45 +27,45 @@ The 8-DOM consists of eight interpenetrating functional dimensions. Assigning ea
 
 ### 1.2 The Tensor State Principle
 
-The 8-DOM state is a tensor, not a list. The dimensions are not independent variables measured in parallel—they exist in coupled relationship where each dimension's value is partially constituted by its relations to all others.
+The 8-DOM state is a tensor, not a list. The dimensions are not independent variables measured in parallel — they exist in coupled relationship where each dimension's value is partially constituted by its relations to all others.
 
 **The Distinction:**
 
 - **List (Legacy Model):** Eight separate KPIs tracked independently, correlated post-hoc through statistical analysis.
-- **Tensor (8-DOM):** A single $8 \times 8$ relational matrix where the organizational state *is* the pattern of interdimensional coupling.
+- **Tensor (8-DOM):** A single $8 \times 8$ relational matrix where the organisational state *is* the pattern of interdimensional coupling.
 
-**Implication:** An organization cannot optimize $\phi$ (Operational) without simultaneously affecting $\psi$ (Individual), $\tau$ (Temporal), and all other coordinates. The tensor formalism makes these couplings explicit and measurable rather than emergent surprises.
+**Implication:** An organisation cannot optimise $\phi$ (Operational) without simultaneously affecting $\psi$ (Individual), $\tau$ (Temporal), and all other coordinates. The tensor formalism makes these couplings explicit and measurable rather than emergent surprises.
 
-### 1.3 Quantization Method
+### 1.3 Quantisation Method
 
-The 8-DOM functions as the quantization method for organizational fields—the systematic procedure by which continuous field dynamics are rendered into discrete, measurable states.
+The 8-DOM provides a quantisation method for organisational fields — a systematic procedure by which continuous field dynamics can be rendered into discrete, measurable states.
 
 **The Parallel:**
 
-| Domain | Field | Quantum | Quantization Method |
+| Domain | Field | Quantum | Quantisation Method |
 |--------|-------|---------|---------------------|
 | Information Theory | Data | Bit | Binary encoding |
 | Quantum Field Theory | Electromagnetic | Photon | Field operators |
-| Organizational Theory | Meso-Field | Tensor Node | 8-DOM via [UNS] |
+| Organisational Theory | Meso-Field | Tensor Node | 8-DOM via [UNS] |
 
-**The Mechanism:** Quantization occurs through the conjunction of two architectural elements:
+**The Mechanism:** Quantisation occurs through the conjunction of two architectural elements:
 
-1. **Coordinate Assignment:**[^1] The [UNS] provides an ISA-95 hierarchical address space (Enterprise → Site → Area → Line → Cell). A continuous organizational process becomes a discrete Tensor Node when assigned coordinates within this manifold.
+1. **Coordinate Assignment:**[^1] The [UNS] provides an ISA-95 hierarchical address space (Enterprise → Site → Area → Line → Cell). A continuous organisational process becomes a discrete Tensor Node when assigned coordinates within this manifold.
 
-2. **State Declaration:**[^2] Report-by-Exception (RBE) event emission forces the node to declare its current state across the 8-DOM dimensions. The act of publishing a source-normalized event *is* the quantization event—the moment continuous field dynamics collapse into a discrete, addressable tensor state.
+2. **State Declaration:**[^2] Report-by-Exception (RBE) event emission requires the node to declare its current state across the 8-DOM dimensions. The act of publishing a source-normalised event constitutes the quantisation event — the moment continuous field dynamics collapse into a discrete, addressable tensor state.
 
 
 ![unnamed](https://github.com/user-attachments/assets/f2116b1c-fd5f-4215-8822-02a990014eab)
 
 
 
-**The Function:** Without coordinate assignment, the organizational field exists but has no addressable structure. Without event emission, the node exists but has no declared state. Quantization requires both: position in the manifold and state declaration to that position.
+**The Function:** Without coordinate assignment, the organisational field exists but has no addressable structure. Without event emission, the node exists but has no declared state. Quantisation requires both: position in the manifold and state declaration to that position.
 
-**The Contrast:** Legacy systems measure organizational reality through periodic polling—extracting snapshots from an assumed-static system. The 8-DOM quantizes through continuous emission—the system declares its own state changes as they occur, rendering the field observable in real-time.
+**The Contrast:** Legacy systems measure organisational reality through periodic polling — extracting snapshots from an assumed-static system. The 8-DOM quantises through continuous emission — the system declares its own state changes as they occur, rendering the field observable in real time.
 
 ### 1.4 The Meso-Field Matrix
 
-The complete internal coherence of a Tensor Node is represented by the Meso-Field Matrix ($M_{meso}$)—an $8 \times 8$ matrix capturing all dimensional relationships.
+The 8-DOM represents the complete internal coherence of a Tensor Node as the Meso-Field Matrix ($M_{meso}$) — an $8 \times 8$ matrix capturing all dimensional relationships.
 
 #### 1.4.1 Matrix Structure
 
@@ -92,7 +91,7 @@ The diagonal ($M_{\tau\tau}, M_{\chi\chi}, \ldots M_{\psi\psi}$) represents the 
 | $M_{\phi\phi}$ | Operational stability: Is production flow self-consistent? |
 | $M_{\epsilon\epsilon}$ | Environmental coupling: Is the external interface well-defined? |
 | $M_{\iota\iota}$ | Technical robustness: Is data infrastructure stable? |
-| $M_{\omicron\omicron}$ | Organizational clarity: Is the governance structure coherent? |
+| $M_{\omicron\omicron}$ | Organisational clarity: Is the governance structure coherent? |
 | $M_{\sigma\sigma}$ | Symbolic consistency: Is internal terminology unified? |
 | $M_{\psi\psi}$ | Individual capacity: Is human agency preserved and functional? |
 
@@ -105,13 +104,10 @@ The off-diagonal elements represent the coherence state (or friction) between di
 | Relation | Notation | Operational Meaning |
 |----------|----------|---------------------|
 | Temporal–Operational | $M_{\tau\phi}$ | Alignment between planning schedules and execution reality. Source of production delays. |
-| Technical–Organizational | $M_{\iota\omicron}$ | Alignment between data systems and management hierarchy. Do tools match governance? |
+| Technical–Organisational | $M_{\iota\omicron}$ | Alignment between data systems and management hierarchy. Do tools match governance? |
 | Symbolic–Individual | $M_{\sigma\psi}$ | Alignment between corporate language and employee understanding. Source of cultural misalignment. |
-| Environmental–Operational | $M_{\epsilon\phi}$ | Coupling between market demand and process capacity. Defines organizational agility. |
+| Environmental–Operational | $M_{\epsilon\phi}$ | Coupling between market demand and process capacity. Defines organisational agility. |
 | Operational–Individual | $M_{\phi\psi}$ | How operational load constrains human agency. Burnout vector. |
-
----
-
 ## 2. The Math of the Manifold
 
 ### 2.1 Combinatorial Depth
