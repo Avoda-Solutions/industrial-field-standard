@@ -285,26 +285,8 @@ For each probability mass, the system identifies the specific coupling chains re
 
 Meaning is therefore traceable, not inferred.
 
-### 2.5 The Markov Property
 
-The tensor manifold operates as a **discrete-time Markov decision process**:
-
-| Component | Instantiation |
-|-----------|---------------|
-| **State** | The 8×8 coupling matrix $M_{ij}$ at time t |
-| **Transition** | Causal propagation rules (defined chains with coupling coefficients) |
-| **Horizon** | t+1 through t+3 (meaningful prediction window) |
-| **Outcome** | Discretized into 5 trajectory classes |
-
-The "forecast" is not predicting the future. It is calculating **which causal chains are loaded** and their probable terminal states if no intervention occurs.
-
-The Markov property holds because:
-
-- State at t+1 depends only on state at t0 plus active perturbations
-- Historical data informs coupling coefficients, but prediction requires only current state
-- The manifold is memoryless at the field level; memory exists in the chain definitions
-
-### 2.6 Intervention Calculus
+### 2.5 Intervention Calculus
 
 The TFM answers the passive question:
 
