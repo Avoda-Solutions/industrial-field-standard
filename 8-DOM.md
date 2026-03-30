@@ -3,7 +3,7 @@
 
 **Author:** Tuukka Vesa, Avoda Solutions OÜ  
 **Standard Version:** 1.1.0  
-**License:** CC BY-NC-ND 4.0
+**License:** License: CC BY-ND 4.0. 
 
 **Prerequisite:** This specification assumes familiarity with [The Physics of Digital Transformation: Axioms & Theorems](Axioms.md) and the [Coupled-Field Tensor Manifold: Technical Specification](cftm-specification.md) (Vesa, 2026).
 
