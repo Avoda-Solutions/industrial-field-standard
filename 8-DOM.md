@@ -110,35 +110,11 @@ The off-diagonal elements represent the coherence state (or friction) between di
 | Environmental–Operational | $M_{\epsilon\phi}$ | Coupling between market demand and process capacity. Defines organizational agility. |
 | Operational–Individual | $M_{\phi\psi}$ | How operational load constrains human agency. Burnout vector. |
 
-### 1.5 Matrix Derivation: Cross-Dimensional Causal Links
-
-When an organization achieves geometric system maturity, the $8 \times 8$ matrix ($M_{ij}$) allows for the measurement of specific cross-dimensional impacts, moving from vague symptoms to deterministic tensor-vector relations.
-
-![unnamed (2)](https://github.com/user-attachments/assets/a6978655-4d31-48a4-b5f8-83dbc5bb5402)
-
-
-
-#### Primary Relation: Environmental ($\epsilon$) → Operational ($\phi$)
-
-- **The Relationship:** $M_{\epsilon\phi}$ quantifies how external volatility penetrates and alters internal Operational ($\phi$) emittance.
-
-- **The Observation:** The manifold identifies a specific shift in the Tensor Node's coordinates; a change in Environmental ($\epsilon$) at the macro scale propagates as a boundary condition forcing a shift in Operational ($\phi$) setpoints.
-
-- **Geometric Visibility:** Under Synchronous State Representation (Section 6 of CFTM), the real-time deflection of the operational vector $\phi$ is observed as a direct function of the environmental coordinate $\epsilon$.
-
-#### Secondary/Systemic Relation: $\phi$ (Operational) → $\psi$ (Individual)
-
-- **Systemic Chain:** A perturbation starting at $\epsilon$ (Environmental) that deflects the Tensor Node's $\phi$ (Operational) state eventually manifests as a constraint on its Individual ($\psi$) state.
-
-- **The Result:** The relationship $M_{\phi\psi}$ allows the organization to observe how operational volatility reduces the node's capacity for Individual ($\psi$) action.
-
-- **Deterministic Management:** Managers no longer address "burnout" as an abstract concept; they manage it as a measurable deflection in the $\psi$ vector caused by structural imbalances in the $\phi$ and $\epsilon$ coordinates of the Tensor Node.
-
-### 1.6 The Measurement Problem
+### 1.5 The Measurement Problem
 
 Legacy organizational measurement assumes passive observation—that the act of measurement does not influence the system being measured. This assumption fails in field systems.
 
-#### 1.6.1 The Passive Measurement Fallacy
+#### 1.5.1 The Passive Measurement Fallacy
 
 **The Assumption:** Traditional KPIs and dashboards presume they extract information from a static reality without altering it.
 
@@ -168,7 +144,7 @@ The quantum mechanical concept of "measurement collapse" has a precise organizat
 
 **The Distinction from Metaphor:** This is not analogical language. The RBE protocol *literally* forces state declaration—a node must resolve its 8-DOM coordinates into specific values at the moment of emission. The "collapse" is the computational act of serializing continuous internal process into discrete JSON payload published to the coordinate address.
 
-#### 1.6.3 The Observer Effect
+#### 1.5.3 The Observer Effect
 
 In legacy architecture, measurement creates artifacts:
 
