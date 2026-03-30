@@ -110,52 +110,6 @@ The off-diagonal elements represent the coherence state (or friction) between di
 | Environmental–Operational | $M_{\epsilon\phi}$ | Coupling between market demand and process capacity. Defines organizational agility. |
 | Operational–Individual | $M_{\phi\psi}$ | How operational load constrains human agency. Burnout vector. |
 
-### 1.5 The Measurement Problem
-
-Legacy organizational measurement assumes passive observation—that the act of measurement does not influence the system being measured. This assumption fails in field systems.
-
-#### 1.5.1 The Passive Measurement Fallacy
-
-**The Assumption:** Traditional KPIs and dashboards presume they extract information from a static reality without altering it.
-
-**The Reality:** Measurement in a coupled-field system participates in the field. There is no passive extraction; there is only state declaration or silence.
-
-**The Mechanism:** In the geometric paradigm, measurement *is* event emission.[^3] A Tensor Node does not wait to be queried—it emits state changes upon detection of delta. This inverts the measurement relationship:
-
-| Aspect | Legacy (Passive) | Geometric (Declarative) |
-|--------|------------------|-------------------------|
-| Initiative | Observer queries system | System declares to manifold |
-| Timing | Periodic, scheduled | Upon state change (RBE) |
-| Fidelity | Snapshot of assumed-static state | Continuous real-time stream |
-| Participation | Observer "outside" system | Emitter *is* the system |
-
-**The Illustration:** A particle of dust traverses a production line. It exists in the operational field's reality—affecting air quality sensors, potentially contaminating product, influencing maintenance cycles. In legacy architecture, if no query captures it, it never "existed" in the measurement system, yet its field effects propagate. In geometric architecture, any node detecting the dust *emits* the state change; the dust becomes a coordinate-addressed event in the manifold. The measurement system's blindness does not prevent causality; it prevents visibility of causality.
-
-#### 1.6.2 State Collapse as Event Emission
-
-The quantum mechanical concept of "measurement collapse" has a precise organizational analog: the Report-by-Exception event.[^4]
-
-**The Parallel:**
-
-- **QM:** Prior to measurement, a particle exists in superposition of states. Measurement forces collapse into a single eigenstate.
-- **8-DOM:** Prior to event emission, a Tensor Node's state is undefined to the manifold—it may have internal state, but that state has no coordinate-addressed existence. Event emission forces the node to declare a specific tensor configuration to its [UNS] address.
-
-**The Implication:** Organizations that emit infrequently leave their Tensor Nodes in undefined states relative to the manifold. The field cannot observe what has not been declared. Organizations operating on continuous RBE emission[^5] maintain high-fidelity alignment between internal node state and manifold-observable state.
-
-**The Distinction from Metaphor:** This is not analogical language. The RBE protocol *literally* forces state declaration—a node must resolve its 8-DOM coordinates into specific values at the moment of emission. The "collapse" is the computational act of serializing continuous internal process into discrete JSON payload published to the coordinate address.
-
-#### 1.5.3 The Observer Effect
-
-In legacy architecture, measurement creates artifacts:
-
-- **Hawthorne Effect:** Workers alter behavior when observed
-- **Goodhart's Law:** Metrics become targets, ceasing to measure what they intended
-- **Audit Distortion:** Systems optimize for audit windows rather than continuous performance
-
-These are symptoms of passive measurement's false premise—that observation is separable from the system observed.
-
-**The Geometric Resolution:** When nodes emit their own state continuously, observation is not an external intervention but an intrinsic system function. The "observer" is the manifold itself, and all nodes participate equally in both emission and consumption.[^6] The observer effect dissolves because there is no privileged observer position—only field participation.
-
 ---
 
 ## 2. The Math of the Manifold
