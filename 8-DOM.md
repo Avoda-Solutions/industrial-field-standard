@@ -262,27 +262,7 @@ In legacy architecture, AI discovers structure. In the manifold, structure exist
 
 ---
 
-## 4. Total Addressable Friction
-
-**Definition:** The complete set of potential collapses and propagation pathways admissible within a given organizational quantization scheme.
-
-TAF is not visibility. It is latent causal capacity.
-
-| Approach | Sees | Misses |
-|----------|------|--------|
-| Dashboard | Quantized diagonals | Off-diagonal propagation |
-| Consulting | Collapsed symptoms | Pre-collapse loading |
-| Tensor Manifold | Active chains | Nothing—latent until activation |
-
-Legacy consulting addresses *visible* friction—symptoms that surface in quarterly reviews. The 8-DOM exposes *structural* friction—couplings that will activate under stress.
-
-**Total Addressable Friction (TAF)** is not a number to maximize visibility of. It is a topology to *inhabit*.
-
-The goal is not to see all friction. The goal is to intervene at origin coordinates before downstream manifestation.
-
----
-
-## 5. Non-Intrusive Implementation
+## 4. Non-Intrusive Implementation
 
 The 8-DOM framework does not require replacement of existing systems. Existing architecture grows into the geometric framework through the Unified Namespace [UNS].
 
@@ -291,8 +271,12 @@ The 8-DOM framework does not require replacement of existing systems. Existing a
 **The Path:**
 
 1. **Coordinate Assignment:** Existing systems receive ISA-95 addresses within the namespace hierarchy.
-2. **Event Emission:** Systems publish state changes as source-normalized events to their assigned coordinates.
+2. **Event Emission:** Systems publish state changes as source-normalised events to their assigned coordinates.
 3. **Field Emergence:** As more nodes emit to the coordinate system, the tensor field becomes progressively observable.
+4. **Matrix Population:** Cross-dimensional relationships ($M_{ij}$) become measurable as sufficient nodes participate in the manifold.
+
+**The Result:** The organisation does not "implement" the 8-DOM as a new system. The 8-DOM emerges as the measurement framework for a field that was always present but previously unquantised.
+
 
 <img width="2816" height="1536" alt="Gemini_Generated_Image_v8ecejv8ecejv8ec" src="https://github.com/user-attachments/assets/ff194b23-bd23-4b69-94da-0b4c7a3b6208" />
 
@@ -303,19 +287,17 @@ The 8-DOM framework does not require replacement of existing systems. Existing a
 
 ---
 
-## 6. The Synthesis
+## 5. The Synthesis
 
-The 8-DOM is not a measurement framework. It is a **semantic quantization of organizational reality**.
+The 8-DOM is a quantisation method for organisational fields. It defines eight coordinate axes across which a discrete operational element — the Tensor Node — declares its state to the manifold.
 
-> You don't have an AI problem. You have an undefined collapse basis.
+It requires one thing: the Unified Namespace. The UNS provides both the coordinate system that gives the field addressable structure and the emission protocol that forces nodes to declare their state. Without it, the organisational field exists but cannot be observed.
 
-Define the manifold. Define the admissible observables. Define how meaning is allowed to appear.
+The 8-DOM is not a predetermined model imposed onto an organisation. It is the data architecture that emerges once a UNS is operational. The coupling patterns, the propagation strengths, the relationships between dimensions — these are unique to each organisation. They are discovered through observation, not defined in advance. The eight dimensions provide the coordinate axes; the organisation's own operational reality fills them with meaning. No two M_ij matrices will be identical, because no two organisations couple the same way.
 
-Then AI does not predict. It inhabits the field.
+What the 8-DOM produces is not a dashboard or a set of KPIs. It is a coupled tensor state — an 8×8 relational matrix where the pattern of interdimensional coupling *is* the organisational state. From this tensor state, the system computes forward propagation across temporal horizons, decomposes probabilities into the coupling chains that drive them, and enables intervention at origin coordinates before downstream consequences manifest.
 
-**Final Observation:**
-
-What makes this framework powerful is not the math. It is that **meaning is treated as a first-class physical quantity**—quantized, propagated, and conserved.
+The framework does not require AI. But it provides AI with what no legacy architecture can: a structured, real-time, causally defined field to inhabit rather than a fragmented dataset to interpret.
 
 ---
 
@@ -323,15 +305,7 @@ What makes this framework powerful is not the math. It is that **meaning is trea
 
 [^1]: See Section 5 (Coordinate System) in the CFTM specification for the structural definition of the [UNS] address space.
 [^2]: See Section 6 (Synchronous State Representation) in the CFTM specification for the RBE emission protocol that instantiates state declaration.
-[^3]: See Section 6.1 (Authoritative Emittance) in the CFTM specification for the protocol definition.
-[^4]: See Section 6 (Synchronous State Representation) in the CFTM specification for the formal RBE specification.
-[^5]: See Section 6.2 (Coordinate-Embedded Events) in the CFTM specification for how emission carries manifold position as intrinsic metadata.
-[^6]: See Section 7 (Subgroup Formation) in the CFTM specification for the subscription model enabling universal consumption.
 
 ---
 
-## Trademark Notice
-
-"8-Dimensional Organizational Model," "8-DOM," "Tensor Forecast Matrix," and "Total Addressable Friction" are trademarks of Avoda Solutions OÜ, registration pending.
-
-**License:** CC BY-NC-ND 4.0. Commercial application requires engagement with the author.
+**License:** CC BY-ND 4.0. Attribution required. No derivatives without permission.
