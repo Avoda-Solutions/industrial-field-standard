@@ -145,47 +145,33 @@ This is the O(N) advantage: you do not monitor complexity; you inherit meaning w
 
 ### 2.2 The Temporal Horizon
 
-The temporal dimension extends beyond simple past-present-future into a meaningful prediction horizon, defined by distinct collapse regimes rather than timestamps:
+The temporal dimension operates across five distinct horizons, each with different observational mechanics:
 
-| Temporal State | Symbol | Operation | Mathematical Object |
-|----------------|--------|-----------|---------------------|
-| Past | t-1 | Forensic collapse | Directed acyclic graph (DAG) of activated chains |
-| Present | t0 | Field observation | Live tensor state at coordinate |
-| Near future | t+1 | Immediate propagation | Forward evaluation of loaded chains |
-| Medium horizon | t+2 | Secondary effects | Propagation through 2nd-degree couplings |
-| Outer horizon | t+3 | Systemic completion | Terminal states of 3rd-degree chains |
+| Temporal State | Symbol | What the system does |
+|----------------|--------|----------------------|
+| Past | t-1 | Reconstructs which coupling chains produced the current state |
+| Present | t0 | Observes which coupling chains are currently active |
+| Near future | t+1 | Computes where active chains will propagate next |
+| Medium horizon | t+2 | Computes secondary effects through second-degree couplings |
+| Outer horizon | t+3 | Computes terminal states of third-degree chains |
 
-These are not the same math evaluated at different times. They are different semantic quantizations of time—each defines what counts as a meaningful observable.
-
-**Past (t-1):** Collapse has already occurred. The problem is inverse: given a terminal observable, reconstruct the admissible causal DAG that could have produced it.
-
-**Present (t0):** The field is continuous. Observation is selective: detect which couplings are sufficiently loaded to be semantically relevant.
-
-**Future (t+1 to t+3):** No collapse has occurred yet. The system computes which collapses are likely, given current tensor geometry and coupling strengths. Prediction is therefore not extrapolation; it is pre-collapse probability mass estimation over admissible futures.
+Looking backward, the system traces causality. Looking at the present, it detects which couplings are loaded. Looking forward, it computes where those loaded couplings are likely to terminate if no intervention occurs. The prediction is structural — derived from current tensor state and historically calibrated coupling strengths — not a statistical extrapolation from past trends.
 
 ### 2.3 The Trajectory Distribution
 
-Each tensor state at t0 is not mapped to a single outcome but to a discretized semantic trajectory space:
+Each tensor state at t0 maps to a distribution across five outcome classes:
 
 | Trajectory | Symbol | Definition |
 |------------|--------|------------|
-| Very Bad | VB | ≥2 dimensions in critical deflection; systemic cascade probable |
-| Bad | B | 1 dimension in critical deflection; degradation propagating |
-| Same | S | Tensor state stable; no significant drift |
-| Good | G | Recovery vector active; coherence improving |
 | Very Good | VG | Positive cascade across multiple couplings |
+| Good | G | Recovery vector active; coherence improving |
+| Same | S | Tensor state stable; no significant drift |
+| Bad | B | 1 dimension in critical deflection; degradation propagating |
+| Very Bad | VB | ≥2 dimensions in critical deflection; systemic cascade probable |
 
-These are not subjective labels. They are quantized outcome classes—the only admissible semantic collapses of the future field state at t+n.
+These are quantised outcome classes, not subjective labels. Each trajectory represents a class of futures that differ in operational detail but carry the same meaning at the decision scale.
 
-Each trajectory represents an equivalence class of futures that are distinct in micro-detail but identical in meaning at the organizational decision scale.
-
-The probability distribution is computed from:
-
-1. Current tensor state ($M_{ij}(t_0)$)
-2. Active perturbation vectors (which chains are firing)
-3. Historical coupling coefficients (organization-specific propagation strengths)
-
-Thus, meaning is not inferred post hoc—it is quantized upstream.
+The probability distribution across these classes is derived from historical coupling coefficients and current tensor state.
 
 ### 2.4 The Tensor Forecast Matrix
 
