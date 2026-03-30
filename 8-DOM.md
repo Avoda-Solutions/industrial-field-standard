@@ -175,56 +175,37 @@ The probability distribution across these classes is derived from historical cou
 
 ### 2.4 The Tensor Forecast Matrix
 
-At any moment, the system generates the **Tensor Forecast Matrix (TFM)**:
+At any moment, the system generates the Tensor Forecast Matrix (TFM):
 
 $$\mathbf{TFM}(t_0) = \begin{pmatrix}
-P(\text{VB})_{t+1} & P(\text{B})_{t+1} & P(\text{S})_{t+1} & P(\text{G})_{t+1} & P(\text{VG})_{t+1} \\
-P(\text{VB})_{t+2} & P(\text{B})_{t+2} & P(\text{S})_{t+2} & P(\text{G})_{t+2} & P(\text{VG})_{t+2} \\
-P(\text{VB})_{t+3} & P(\text{B})_{t+3} & P(\text{S})_{t+3} & P(\text{G})_{t+3} & P(\text{VG})_{t+3}
+P(\text{VG})_{t+1} & P(\text{G})_{t+1} & P(\text{S})_{t+1} & P(\text{B})_{t+1} & P(\text{VB})_{t+1} \\
+P(\text{VG})_{t+2} & P(\text{G})_{t+2} & P(\text{S})_{t+2} & P(\text{B})_{t+2} & P(\text{VB})_{t+2} \\
+P(\text{VG})_{t+3} & P(\text{G})_{t+3} & P(\text{S})_{t+3} & P(\text{B})_{t+3} & P(\text{VB})_{t+3}
 \end{pmatrix}$$
 
-<img width="2816" height="1536" alt="Gemini_Generated_Image_ndbh44ndbh44ndbh" src="https://github.com/user-attachments/assets/b43d2056-5b98-4cce-83d5-0a510a7f0016" />
+The rows represent the three forward time horizons (t+1 through t+3). The columns represent the five trajectory classes. Each cell contains the probability of that outcome at that horizon.
 
-
-This matrix is a **semantic collapse surface**:
-
-- Rows = temporal collapse regimes
-- Columns = admissible future meanings
-
-The aggregate is readable because it is already quantized. The decomposition is actionable because it preserves causal lineage.
-
-For each probability mass, the system identifies the specific coupling chains responsible for loading that outcome:
+The matrix is readable because it is already quantised into meaningful categories. It is actionable because each probability can be decomposed into the specific coupling chains driving it:
 
 > "70% probability of 'Bad' at t+2 is driven by:
 > - MAC-01 (ε→φ→τ→ι), currently at stage 2
 > - MES-03 (ο→χ→ε→τ), loading with buffer propagation"
 
-Meaning is therefore traceable, not inferred.
-
-
 ### 2.5 Intervention Calculus
 
 The TFM answers the passive question:
 
-> "If we do nothing, which semantic collapses are likely?"
+> "If we do nothing, which outcomes are likely at each horizon?"
 
 The tensor decomposition enables the active question:
 
-> "Which origin coordinate must be perturbed to re-quantize the future?"
+> "Which origin coordinate must we act on to shift the trajectory distribution?"
 
 **Intervention Delta:**
 
 $$\Delta \mathbf{TFM} = \mathbf{TFM}(t_0 | \text{intervention at } c) - \mathbf{TFM}(t_0 | \text{no intervention})$$
 
-This is not optimization. It is **counterfactual field reorientation**.
-
-
-<img width="2816" height="1536" alt="Gemini_Generated_Image_eswwwyeswwwyesww" src="https://github.com/user-attachments/assets/5f34b1e8-7f6c-4cb8-80e8-9d059783092e" />
-
-
-
-The decision-maker is not choosing an action but selecting which future meanings remain admissible.
-
+The system injects a corrective event at a candidate coordinate, recomputes the TFM, and presents the difference. The decision-maker sees which intervention shifts the probability mass from negative to positive trajectories — selecting which future becomes more probable.
 ---
 
 ## 3. AI-Native Inhabitation
