@@ -206,6 +206,7 @@ The tensor decomposition enables the active question:
 $$\Delta \mathbf{TFM} = \mathbf{TFM}(t_0 | \text{intervention at } c) - \mathbf{TFM}(t_0 | \text{no intervention})$$
 
 The system injects a corrective event at a candidate coordinate, recomputes the TFM, and presents the difference. The decision-maker sees which intervention shifts the probability mass from negative to positive trajectories — selecting which future becomes more probable.
+
 ---
 
 ## 3. AI-Native Inhabitation
