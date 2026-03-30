@@ -211,29 +211,29 @@ The system injects a corrective event at a candidate coordinate, recomputes the 
 
 ## 3. AI-Native Inhabitation
 
-The tensor manifold is not a system that benefits from AI. It is a **semantic quantization environment** in which AI can exist without hallucinating structure.
+The tensor manifold provides AI with what it typically lacks: pre-existing structure. In legacy architectures, AI must infer organisational structure from fragmented, post-hoc data exports. In the manifold, structure is defined first — AI operates within it.
 
 ### 3.1 The Alignment
 
 | What AI Requires | What the Manifold Provides |
 |------------------|---------------------------|
 | Structured state space | Explicit tensor coordinates |
-| Event streams | Quantized field excitations |
+| Event streams | Source-normalised event emissions |
 | Causal structure | Defined propagation chains |
-| Bounded futures | Finite outcome classes |
-| Simulation | Controlled re-quantization |
+| Bounded futures | Finite trajectory classes |
+| Simulation | Recompute TFM under different conditions |
 
-AI does not discover meaning here. It operates inside a meaning-bearing geometry.
+In legacy architecture, AI discovers structure. In the manifold, structure exists before AI arrives.
 
 ### 3.2 The Inversion
 
 **Legacy approach:**
-> AI attempts to infer structure from collapsed, heterogeneous data.
+> AI receives data extracted from siloed systems and attempts to infer relationships between them.
 
 **Manifold approach:**
-> Structure exists first. AI propagates meaning through it.
-
-
+> Relationships are defined by the coupling matrix. AI subscribes to the field and operates on structured state directly.
+>
+> 
 <img width="2816" height="1536" alt="Gemini_Generated_Image_qxemdfqxemdfqxem" src="https://github.com/user-attachments/assets/dcb3dc45-df8d-4737-a3c2-1490ce8e5819" />
 
 
@@ -241,11 +241,13 @@ AI does not discover meaning here. It operates inside a meaning-bearing geometry
 
 | Function | Operation |
 |----------|-----------|
-| **State Observation** | Continuous subscription to coordinate ranges. Not querying—inhabiting the same field as operations. |
-| **Chain Activation Detection** | Pattern matching against defined causal chains. When MAC-01 stage 1 fires, the system recognizes it as the first node in a known propagation sequence. |
-| **Forward Propagation** | Given current tensor state + active chains + historical coupling strengths, calculate the TFM. Sequence modeling over structured state transitions. |
-| **Intervention Simulation** | Inject corrective event at candidate coordinate. Recalculate TFM. Compare trajectories. Present the delta. |
+| **State Observation** | Continuous subscription to coordinate ranges within the UNS. |
+| **Chain Activation Detection** | Pattern matching against defined causal chains. When a known propagation sequence begins, the system recognises it. |
+| **Forward Propagation** | Given current tensor state and historical coupling strengths, compute the TFM. |
+| **Intervention Simulation** | Inject corrective event at candidate coordinate. Recompute TFM. Present the delta. |
 | **Anomaly Detection** | Unknown coupling observed. Novel chain activating outside defined set. Flag for observation: "Unknown propagation path ι→ο→ψ detected. No historical precedent." |
+
+
 
 ### 3.4 The Capability Shift
 
