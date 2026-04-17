@@ -1,83 +1,61 @@
 # The Physics of Digital Transformation
 
 **Author:** Tuukka Vesa, Avoda Solutions OÜ  
-**Status:** Canonical Definition (v1.0.6)  
+**Standard Version:** 1.2.0  
+**License:** CC BY-ND 4.0  
 **DOI:** [10.5281/zenodo.18246532](https://doi.org/10.5281/zenodo.18246532)
 
 ---
 
-## Intellectual Property & Governance
+## The Core Equation
 
-**Author & Originator:** Tuukka Vesa  
-**Trademark Holder:** "Physics of Digital Transformation" and the equation O=(N²) → [UNS] → O=(N) ∧ I4² are common law trademarks of Avoda Solutions OÜ, first used commercially January 2026. All rights reserved.  
-**License:** CC BY-NC-ND 4.0 (Attribution-NonCommercial-NoDerivatives)
-
----
-
-## License Terms & Permitted Uses
-
-### Permitted:
-- ✓ Internal organizational assessment and educational use
-- ✓ Citation in academic or technical publications with full attribution
-- ✓ Sharing the original, unmodified work with leadership and peers
-
-### Prohibited:
-- ✗ **Commercial Use:** Providing paid consulting, training, or software services utilizing this framework or trademark without a commercial license
-- ✗ **Derivatives:** Modifying the mathematical framework or equation to create variant models
-- ✗ **Misrepresentation:** Suggesting endorsement or partnership with Avoda Solutions OÜ without agreement
-
----
-
-## The General Equation
-
-The paradigm shift from Industry 3.0 to Industry 4.0 is fundamentally a **Topological Phase Transition** defined by the relocation of the exponent:
+The transition from Industry 3.0 to Industry 4.0 is a topological state change defined by the Relocation of the Exponent:
 
 $$O=(N^2) \rightarrow [UNS] \rightarrow O=(N) \wedge I4^2$$
 
 ---
 
-## Structural Proofs (The Axioms)
+## The Axioms
 
-The rigorous mathematical and systemic proofs for this framework are maintained in the canonical **[Axioms.md](Axioms.md)** file. This documentation defines the transition from Linear Restriction to Topological Manifold through the following governing principles:
+The framework is governed by five axioms, formally defined in [Axioms.md](Axioms.md):
 
-- **The Principle of Quadratic Entanglement (Axiom I):** Defines why Euclidean, sequential architectures inevitably collapse under their own metabolic weight (O=N²).
-
-- **The Principle of Geometric Catalysis (Axiom II):** Identifies the [UNS] as a Meadows #2 Leverage Point, changing the system structure to dissolve rather than "solve" bottlenecks.
-
-- **The Principle of Non-Euclidean Scale (Axiom III):** Describes the manifestation of frictionless scaling once nodes inhabit a state-addressable manifold.
-
-- **The Conservation Principle (Axiom IV):** Establishes that the network exponent is a fundamental constant that must be redirected from Systemic Friction (N²) into Exponential Scaling Capacity (I4²).
-
-- **The Paradigm Shift (Axiom V):** Defines the irreversible Topological Phase Transition from an architecture of translation to an architecture of inhabitation.
+- **Axiom I — Quadratic Entanglement:** Euclidean sequential architectures inevitably collapse under their own metabolic weight (O=N²).
+- **Axiom II — Geometric Catalysis:** The [UNS] is a structural intervention that dissolves bottlenecks rather than solving them.
+- **Axiom III — Geometric Scale:** Once nodes inhabit a state-addressable manifold, scaling becomes frictionless.
+- **Axiom IV — The Conservation Principle:** The network exponent is an immutable property that must be redirected from friction (N²) into capacity (I4²).
+- **Axiom V — The Paradigm Shift:** The irreversible topological phase transition from an architecture of translation to an architecture of inhabitation.
 
 ---
 
-### The Optimization Fallacy
+## The Standard
 
-Attempting to reduce N or improve "alignment" within a sequential framework does not change the exponent; it only hides the friction temporarily.
+The word "standard" comes from the Old French *estandart* — a battle flag, a rallying point planted in the ground during combat so that scattered forces could locate themselves relative to it and reorganise. It wasn't a set of rules. It was a fixed reference point in chaos.
 
-**"You cannot optimize sequential architecture into geometric behavior."**
-
----
-
-## Why These Restrictions
-
-The **NoDerivatives (ND)** clause ensures the mathematical framework remains structurally intact as it propagates through the field. Digital transformation discourse suffers from semantic drift—concepts fragment into competing variants, losing precision and creating confusion. By preventing derivatives, this license maintains a **stable reference standard** that the industry can adopt with confidence.
-
-The **NonCommercial (NC)** clause protects the framework's integrity while enabling free use for research, education, and internal evaluation. Commercial applications require engagement to ensure proper implementation within the framework's geometric principles.
-
-The **trademark protection** prevents hostile takeover of the intellectual asset. While the framework itself is freely accessible, the trademark ensures the author retains control over the framework's identity and prevents appropriation by parties seeking to claim ownership or redirect its development.
-
-**This is not gatekeeping—it's field stabilization.** The framework is freely available for study and non-commercial use. The license prevents the fragmentation and commercialization patterns that have historically diluted work in the industrial field.
-
-These terms ensure it remains testable and structurally coherent as the field evaluates its validity.
+The industrial field is in a state of systemic incoherence at every scale — non-normalised data sources emitting without coordinates at the micro level, N² entanglement choking coordination at the meso level, fragmented data architectures preventing ecosystem coherence at the macro level. Undefined relationships leaking energy at every scale simultaneously. At the core of the IFS is a single equation that solves this knot — transforming entanglement into coherence and systemic scalability. Everything else — the axioms, the manifold, the coordinate system — is the operational framework within which digital transformation can organise and establish itself in a coherent manner. At the micro level, source-normalisation gives every emission a coordinate and a structure. At the meso level, the UNS collapses N² entanglement into geometric coordination. At the macro level, the IFS provides the structural basis for cross-boundary synergy and systemic stability. Same function, three scales, fractal structure.
 
 ---
 
-## Legal Jurisdiction & Commercial Inquiries
+## The Specifications
 
-**Legal Jurisdiction:** This work is governed by the laws of Estonia. Exclusive jurisdiction: Courts of Tallinn.
+| Document | Defines |
+|----------|---------|
+| [IFS-00 — System Axioms](Axioms.md) | Why the transition occurs |
+| [IFS-01 — Field Topology](cftm-specification.md) | What the manifold comprises |
+| [IFS-02 — Tensor Structure](8-dom-specification.md) | How the node is modelled |
+| IFS-03 — Quantum Dynamics | What force drives collapse |
 
-**Commercial Licensing:** info@avoda.solutions
+**Companion Documents:**
+- [Theoretical Foundations](IFS-Theoretical-Foundations.pdf) — 33 laws and theorems across 9 disciplines mapped to the five axioms. 20 academic disciplines mapped to the framework's formal objects.
+- [Précis for Institutional Distribution](IFS-Precis.pdf) — The narrative entry point for institutional audiences.
 
+---
+
+## Licence & Legal
+
+**Licence:** CC BY-ND 4.0 International. Attribution required. No derivatives without permission.
+
+Both academic and commercial use of the standard are freely permitted, provided the work is properly attributed and distributed unchanged. What requires engagement with the author is the creation of derivative works and the architectural direction necessary for proper implementation.
+
+**Jurisdiction:** This work is governed by the laws of Estonia.  
+**Contact:** tuukka@avoda.solutions  
 **Citation:** See [CITATION.cff](CITATION.cff) or cite via DOI: [10.5281/zenodo.18246532](https://doi.org/10.5281/zenodo.18246532)
