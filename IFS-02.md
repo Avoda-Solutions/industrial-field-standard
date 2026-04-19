@@ -153,8 +153,5 @@ This corresponds to the Unified Namespace (UNS) as defined in industrial practic
 
 ---
 
-## Trademark Notice
 
-"Coupled-Field Tensor Manifold"™ and "Physics of Digital Transformation"™ are trademarks of Avoda Solutions OÜ, registration pending.
 
-**License:** CC BY-NC-ND 4.0. Commercial application requires engagement with the author.
