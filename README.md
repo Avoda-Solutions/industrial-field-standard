@@ -11,7 +11,7 @@
 
 The transition from Industry 3.0 to Industry 4.0 is a topological state change defined by the Relocation of the Exponent:
 
-O=(N²) → [UNS] → O=(N) ∧ I4². CC BY-ND 4.0.
+O=(N²) → [UNS] → O=(N) ∧ I4². 
 ---
 
 ## The Axioms
