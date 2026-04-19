@@ -20,7 +20,7 @@ $$O=(N^2) \rightarrow [UNS] \rightarrow O=(N) \wedge I4^2$$
 - **[UNS] (Catalyst):** The Unified Namespace; a coordinate system providing dimensional separation
 - **I4² (Capacity):** The exponential capability and scalability of the Industry 4.0 paradigm
 
-The architectural framework that carries this equation into operational reality is defined in the [Coupled-Field Tensor Manifold: Technical Specification](cftm-specification.md) (Vesa, 2026).
+The architectural framework that carries this equation into operational reality is defined in the [IFS-02](IFS-02.md) (Vesa, 2026).
 
 ---
 
