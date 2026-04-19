@@ -125,17 +125,11 @@ Treating the 8×8 matrix as a directed graph where any dimension can influence a
 
 This confirms the intuition: thousands of causal pathways exist in the geometry. Legacy measurement captures only the diagonal (structural integrity of isolated dimensions) and misses 99% of causal reality.
 
-<img width="2816" height="1536" alt="Gemini_Generated_Image_nf9ivqnf9ivqnf9i" src="https://github.com/user-attachments/assets/cc196622-1e1b-4e21-93ff-293cb3c87f8f" />
-
-
-
 **But this is not a visualization problem to solve. It is a quantization problem already solved.**
 
-A dashboard attempts to render 64 static numbers—a forced scalar collapse of a high-dimensional field into a 2D projection. This projection is not neutral: it defines the admissible observables and therefore erases all causal pathways that cannot be expressed in that basis.
+A dashboard attempts to render system state as forced scalar collapse of a high-dimensional field into a 2D projection. This projection is not neutral: it defines the admissible observables and therefore erases all causal pathways that cannot be expressed in that basis.
 
 A tensor manifold does not attempt to observe all pathways simultaneously. Instead, it defines a semantic quantization scheme over the field. The manifold subscribes to the field rather than sampling it.
-
-When a chain activates—when a perturbation crosses a coupling threshold and propagates from coordinate A to coordinate B—the field is forced to collapse locally along that semantic pathway. Only then does the coupling become observable.
 
 The ~10,000 latent pathways are not "hidden variables"; they are inadmissible observables until activation conditions are met.
 
