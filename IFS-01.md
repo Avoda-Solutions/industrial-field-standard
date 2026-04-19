@@ -6,7 +6,7 @@
 **Standard Version:** 1.2.0  
 **License:** CC BY-ND 4.0
 
-**Prerequisite:** This specification assumes familiarity with [IFS-00 The Physics of Digital Transformation: Axioms & Theorems](IFS-00.md) and the [IFS-02 Coupled-Field Tensor Manifold: Technical Specification](IFS-02.md) (Vesa, 2026).
+**Prerequisite:** This specification assumes familiarity with [IFS-00](IFS-00.md) and the [IFS-02](IFS-02.md) (Vesa, 2026).
 
 ---
 
