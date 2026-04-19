@@ -6,7 +6,7 @@
 **License:** CC BY-NC-ND 4.0  
 **DOI:** [![DOI](https://zenodo.org/badge/1134327429.svg)](https://doi.org/10.5281/zenodo.18246532)
 
-**Prerequisite:** This specification assumes familiarity with [The Physics of Digital Transformation: Axioms & Theorems](Axioms.md) (Vesa, 2026), which defines the mathematical foundations referenced herein.
+**Prerequisite:** This specification assumes familiarity with [IFS-00](IFS-00.md) (Vesa, 2026), which defines the mathematical foundations referenced herein.
 
 ---
 
