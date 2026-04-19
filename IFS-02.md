@@ -1,4 +1,4 @@
-# IFS-02 
+## IFS-02 
 
 # 8-Dimensional Organizational Model (8-DOM): Technical Specification 
 
