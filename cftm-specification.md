@@ -1,7 +1,7 @@
 # COUPLED-FIELD TENSOR MANIFOLD: Technical Specification
 
 **Author:** Tuukka Vesa, Avoda Solutions OÜ  
-**Standard Version:** 1.0.6  
+**Standard Version:** 1.2.0  
 **License:** CC BY-NC-ND 4.0  
 **DOI:** [![DOI](https://zenodo.org/badge/1134327429.svg)](https://doi.org/10.5281/zenodo.18246532)
 
