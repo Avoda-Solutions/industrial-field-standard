@@ -11,6 +11,7 @@
 ---
 Quantisation is measurement. Every organisation already does it — KPIs, dashboards, quarterly reviews. The IFS doesn't invent measurement. It uses the most structurally accurate term for what measurement is when you're observing a field. A 3.0 company quantises through polling and snapshots. A 4.0 company quantises through continuous emission. The physics is the same. The fidelity is different.
 
+The 8-DOM is a map, not a blueprint. The eight dimensions are coordinate axes, not prescriptions. Each industry, each company, discovers which dimensions couple most strongly and which expressions of the field matter most for their operations. Nothing is rigid. The framework allows nodes and relationships to emerge, establish, or dissolve organically. No two organisations will produce the same coupling matrix, because no two organisations couple the same way.
 
 
 ## 1. Purpose & Scope
