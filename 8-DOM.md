@@ -1,5 +1,5 @@
 # IFS-02 
-# 8-Dimensional Organizational Model (8-DOM): Technical Specification 
+## 8-Dimensional Organizational Model (8-DOM): Technical Specification 
 
 **Author:** Tuukka Vesa, Avoda Solutions OÜ  
 **Standard Version:** 1.2.0  
