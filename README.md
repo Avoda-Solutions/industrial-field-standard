@@ -16,7 +16,7 @@ O=(N²) → [UNS] → O=(N) ∧ I4². CC BY-ND 4.0.
 
 ## The Axioms
 
-The framework is governed by five axioms, formally defined in [Axioms.md](Axioms.md):
+The framework is governed by five axioms, formally defined in [IFS-01.md](IFS-01.md):
 
 - **Axiom I — Quadratic Entanglement:** Euclidean sequential architectures inevitably collapse under their own metabolic weight (O=N²).
 - **Axiom II — Geometric Catalysis:** The [UNS] is a structural intervention that dissolves bottlenecks rather than solving them.
@@ -38,9 +38,9 @@ The industrial field is in a state of systemic incoherence at every scale — no
 
 | Document | Defines |
 |----------|---------|
-| [IFS-00 — System Axioms](Axioms.md) | Why the transition occurs |
-| [IFS-01 — Field Topology](cftm-specification.md) | What the manifold comprises |
-| [IFS-02 — Tensor Structure](8-dom-specification.md) | How the node is modelled |
+| [IFS-00 — System Axioms](IFS-00.md) | Why the transition occurs |
+| [IFS-01 — Field Topology](IFS-01.md) | What the manifold comprises |
+| [IFS-02 — Tensor Structure](IFS-02.md) | How the node is modelled |
 
 **Companion Documents:**
 - [Theoretical Foundations](IFS-Theoretical-Foundations.pdf) — 33 laws and theorems across 9 disciplines mapped to the five axioms. 20 academic disciplines mapped to the framework's formal objects.
@@ -55,5 +55,5 @@ The industrial field is in a state of systemic incoherence at every scale — no
 Both academic and commercial use of the standard are freely permitted, provided the work is properly attributed and distributed unchanged. What requires engagement with the author is the creation of derivative works and the architectural direction necessary for proper implementation.
 
 **Jurisdiction:** This work is governed by the laws of Estonia.  
-**Contact:** tuukka@avoda.solutions  
+**Contact:** info@avoda.solutions  
 **Citation:** See [CITATION.cff](CITATION.cff) or cite via DOI: [10.5281/zenodo.18246532](https://doi.org/10.5281/zenodo.18246532)
