@@ -295,13 +295,6 @@ The framework does not require AI. But it provides AI with what no legacy archit
 
 ---
 
-## Footnotes
-
-[^1]: See Section 5 (Coordinate System) in the CFTM specification for the structural definition of the [UNS] address space.
-[^2]: See Section 6 (Synchronous State Representation) in the CFTM specification for the RBE emission protocol that instantiates state declaration.
-
----
-
 ## Licence
 
 **Licence:** CC BY-ND 4.0 International. Attribution required. No derivatives without permission.
