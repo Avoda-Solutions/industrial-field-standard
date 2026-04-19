@@ -1,4 +1,4 @@
-## IFS-03
+## IFS-02
 # COUPLED-FIELD TENSOR MANIFOLD: Technical Specification
 
 **Author:** Tuukka Vesa, Avoda Solutions OÜ  
