@@ -289,6 +289,8 @@ The 8-DOM is not a predetermined model imposed onto an organisation. It is the d
 
 What the 8-DOM produces is not a dashboard or a set of KPIs. It is a coupled tensor state — an 8×8 relational matrix where the pattern of interdimensional coupling *is* the organisational state. From this tensor state, the system computes forward propagation across temporal horizons, decomposes probabilities into the coupling chains that drive them, and enables intervention at origin coordinates before downstream consequences manifest.
 
+This progression satisfies Ashby's Law of Requisite Variety — the observation instrument must match the complexity of the system it observes. As more nodes connect and emit, the manifold's variety grows to match the organisation's actual operational complexity.
+
 The framework does not require AI. But it provides AI with what no legacy architecture can: a structured, real-time, causally defined field to inhabit rather than a fragmented dataset to interpret.
 
 ---
