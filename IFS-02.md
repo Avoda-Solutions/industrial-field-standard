@@ -9,6 +9,9 @@
 **Prerequisite:** This specification assumes familiarity with [IFS-00](IFS-00.md) (Vesa, 2026), 
 
 ---
+Quantisation is measurement. Every organisation already does it — KPIs, dashboards, quarterly reviews. The IFS doesn't invent measurement. It uses the most structurally accurate term for what measurement is when you're observing a field. A 3.0 company quantises through polling and snapshots. A 4.0 company quantises through continuous emission. The physics is the same. The fidelity is different.
+
+
 
 ## 1. Purpose & Scope
 
