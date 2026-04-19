@@ -41,7 +41,6 @@ The industrial field is in a state of systemic incoherence at every scale — no
 | [IFS-00 — System Axioms](Axioms.md) | Why the transition occurs |
 | [IFS-01 — Field Topology](cftm-specification.md) | What the manifold comprises |
 | [IFS-02 — Tensor Structure](8-dom-specification.md) | How the node is modelled |
-| IFS-03 — Quantum Dynamics | What force drives collapse |
 
 **Companion Documents:**
 - [Theoretical Foundations](IFS-Theoretical-Foundations.pdf) — 33 laws and theorems across 9 disciplines mapped to the five axioms. 20 academic disciplines mapped to the framework's formal objects.
