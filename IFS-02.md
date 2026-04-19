@@ -153,5 +153,11 @@ This corresponds to the Unified Namespace (UNS) as defined in industrial practic
 
 ---
 
+## Licence
+
+**Licence:** CC BY-ND 4.0 International. Attribution required. No derivatives without permission.
+
+**Citation:** See [CITATION.cff](CITATION.cff) or cite via DOI: [10.5281/zenodo.18246532](https://doi.org/10.5281/zenodo.18246532)
+
 
 
