@@ -300,4 +300,8 @@ The framework does not require AI. But it provides AI with what no legacy archit
 
 ---
 
-**License:** CC BY-ND 4.0. Attribution required. No derivatives without permission.
+## Licence
+
+**Licence:** CC BY-ND 4.0 International. Attribution required. No derivatives without permission.
+
+**Citation:** See [CITATION.cff](CITATION.cff) or cite via DOI: [10.5281/zenodo.18246532](https://doi.org/10.5281/zenodo.18246532)
