@@ -59,7 +59,7 @@ The industrial field is in a state of systemic incoherence at every scale — no
 - [Theoretical Foundations](IFS-Theoretical-Foundations.pdf) — 33 laws and theorems mapped to the core equation. 20 academic disciplines mapped to the framework's formal objects.
 - [Précis for Institutional Distribution](IFS-Precis.pdf) — The narrative entry point for institutional audiences.
 
-The material in these specifications represents the bare structural minimum required to demonstrate the framework's research surface. The documents are not exhaustive descriptions of organisational reality. They are the starting coordinates from which exploration begins — by researchers, by practitioners, and by the organisations that inhabit their own manifolds.
+The material in these specifications represents the bare structural minimum required to demonstrate the framework's research surface. The documents are not exhaustive descriptions of organisational reality. They are the starting coordinates from which exploration begins — by researchers, by practitioners, and by the organisations that inhabit their own fields.
 
 ---
 
