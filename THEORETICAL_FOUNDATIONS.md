@@ -376,27 +376,27 @@ In the geometric state, the efficiency gained from eliminating O(N²) friction d
 ---
 ## 7. Unified Namespace
 
-The catalyst in the [[Core Equation|core equation]]. The structural intervention that performs the transition from [[Quadratic Entanglement|O = (N²)]] to [[Linear Architecture|O = (N) ∧ I4²]]. Not a data broker, not an optimisation tool, not a destination reached by improving the failure state — the structural replacement of one topology with another.
+The catalyst in the Core Equation|core equation. The structural intervention that performs the transition from Quadratic Entanglement|O = (N²) to Linear Architecture|O = (N) ∧ I4². Not a destination reached by improving the failure state — the structural replacement of one topology with another.
 
 ## Position in the equation
 
-$$O = (N^2) \rightarrow \textbf{[UNS]} \rightarrow O = (N) \wedge I4^2$$
+$$O = (N^2) \rightarrow \textbf{UNS} \rightarrow O = (N) \wedge I4^2$$
 
-The UNS is the link between the two states. Without the [UNS] term, the equation has no left-hand-to-right-hand pathway; the failure state and the success state are simply two facts about networked systems sitting next to each other with no mechanism connecting them.
+The UNS is the link between the two states. Without the UNS term, the equation has no left-hand-to-right-hand pathway; the failure state and the success state are simply two facts about networked systems sitting next to each other with no mechanism connecting them.
 
 ### What it is structurally
 
 The UNS is a geometric transformation catalyst operating within ISA-95 structure. It provides dimensional separation across organisational layers and establishes a coordinate system that breaks sequential dependencies.
 
-It is a #2 leverage point in the [[THEORETICAL_FOUNDATIONS#^law-3-2-meadows|Meadows' hierarchy]]: changing the structure of the system. Moving from N² interfaces to N addresses is a change to system structure — the precise intervention Meadows identifies as having the highest impact short of changing the system's goals or paradigm.
+It is a #2 leverage point in the THEORETICAL_FOUNDATIONS |Meadows' hierarchy: changing the structure of the system. Moving from N² interfaces to N addresses is a change to system structure — the precise intervention Meadows identifies as having the highest impact short of changing the system's goals or paradigm.
 
 ### The operational metabolism
 
-The UNS — originated by [[Walker Reynolds]] — instantiates as:
+The UNS — originated by Walker Reynolds — instantiates as:
 
-- **[[source-normalised]] data:** events contextualised with their exact dimensional coordinates at the moment of creation
-- **[[Publish/Subscribe]] (Pub/Sub):** replaces query-response loops; nodes publish state changes to a UNS coordinate, consumers subscribe
-- **[[Report-by-Exception]] (RBE):** producers emit only on state delta, not on polling cycles
+- **source-normalised data:** events contextualised with their exact dimensional coordinates at the moment of creation
+- **Publish/Subscribe (Pub/Sub):** replaces query-response loops; nodes publish state changes to a UNS coordinate, consumers subscribe
+- **Report-by-Exception (RBE):** producers emit only on state delta, not on polling cycles
 
 This mechanism drives the mathematical drop from O(N²) to O(N) complexity.
 
@@ -404,27 +404,28 @@ This mechanism drives the mathematical drop from O(N²) to O(N) complexity.
 
 Three established laws map to the structural intervention:
 
-- [[THEORETICAL_FOUNDATIONS#^law-3-1-beer|Beer's Viable System Model (1972)]] — recursive structure across scales
-- [[THEORETICAL_FOUNDATIONS#^law-3-2-meadows|Meadows' Leverage Points (1999)]] — #2 leverage point: changing system structure
-- [[THEORETICAL_FOUNDATIONS#^law-3-3-conant-ashby|Conant-Ashby Theorem (1970)]] — every good regulator must be a model of its system
+- THEORETICAL_FOUNDATIONS law-3-1-beer|Beer's Viable System Model (1972) — recursive structure across scales
+- THEORETICAL_FOUNDATIONS law-3-2-meadows|Meadows' Leverage Points (1999) — #2 leverage point: changing system structure
+- THEORETICAL_FOUNDATIONS law-3-3-conant-ashby|Conant-Ashby Theorem (1970) — every good regulator must be a model of its system
 
 ## Relation to the manifold
 
-The UNS is the only technical architecture capable of digitally mapping the [[Coupled-Field Tensor Manifold]] — the mathematically accurate description of operational reality. The UNS is to the manifold what a coordinate system is to a topological space: not the space itself, but the addressability that makes the space observable.
-
+The UNS is the only technical architecture capable of digitally mapping the Coupled-Field Tensor Manifold — the mathematically accurate description of operational reality. The UNS is to the manifold what a coordinate system is to a topological space: not the space itself, but the addressability that makes the space observable.
 
 ---
-## 8. THE OBSERVATIONAL INVITATION
 
-$$O = (N^2) \rightarrow [\text{UNS}] \rightarrow O = (N) \wedge I4^2$$
+##v 8. The Invitation
 
-*The [[8-DOM]] frame is offered to physicists and operational-probabilistic theorists as the missing observational substrate for any field-theoretic programme attempting to address relational complexity beyond the laboratory frame.* ^chapter-7-summary
+The Industrial Field Standard is offered as the substrate for a development and research programme broader than any single discipline can carry. Three communities are explicitly invited to engage on the terms their methods make available. 
 
-### The Offering
+**The scientific and academic community** is invited to provide the theoretical validation the framework's formal objects require. Physicists, operational-probabilistic theorists, quantum-cognition researchers, field-theoretic philosophers, and information-geometry specialists can specify the measuring apparatuses to be applied within the framework. Researchers can extend the formal apparatus into the domains they own. The framework provides the substrate; the academy provides the questions, the apparatus, and the analysis. 
 
-The 8-Dimensional Organisational Model is the first observational coordinate system specified for relational fields at industrial scale. It provides a measurable, source-normalised, coordinate-addressed projection of node state onto an eight-axis basis (τ χ φ ε ι ο σ ψ), with empirical coupling coefficients in the [[coupling tensor M(x)]] and forecastable trajectory distributions across the manifold's [[coherence length]], t−1 through t+k. 
+**Industrial partner organisations** are invited to host the programme in operating conditions. Manufacturing enterprises, multi-site operators, supply-chain integrators, and OEMs running production environments can offer the field laboratories in which the apparatus is deployed and the predictions are tested. Source-normalised emission across these environments produces the empirical record that academic analysis requires. The partnership is reciprocal: the operator gains the architectural account of their own system that no current methodology delivers; the researcher gains the observational substrate at scale that no laboratory can replicate. 
 
-The framework deploys this apparatus across operating industrial environments spanning sensor-level (microsecond) to continental socioeconomic (multi-year) scales. For physics, this is not a metaphor for measurement. It is an observational substrate. The 8-DOM defines the coordinate basis. The UNS provides the address space and the publication protocol. The coupling matrix provides the empirical observable. Source-normalisation guarantees that emitted state carries its full dimensional context, which is the precondition for any non-classical analysis that depends on contextuality. UNS implementation in an industrial context is a non-intrusive process for ongoing operations. The minimum technical foundations can be integrated into one production line with low investment in time and money and expanded through iteration while the organization learns more about itself from the state its own systems begin to emit. 
+**Macro-field actors** are invited to engage at the layer the equation describes most directly: regulatory bodies, standards agencies, continental planning bodies, and risk and capital institutions whose work currently operates on aggregate statistics and lagging indicators. The framework changes what these actors can observe and therefore what they can decide upon. Engagement at this layer turns the framework from a research programme into the empirical infrastructure the existing mandates already imply. 
+
+The framework rests on operational ground that is already established: source-normalised geometric architectures are deployed and proven in production. What the framework adds is the formal account of why these architectures succeed where sequential architectures fail, and the systemic frame within which the named actors can recognise their position relative to the equation. The invitation is to engage with the formal apparatus and the research programme it opens — not to validate the architecture itself, which is a settled question, but to specify and test the structural claims the framework makes about the manifold, its dynamics, and its boundary conditions. ^invitation-closing
+
 
 ---
 
@@ -476,24 +477,9 @@ This mapping is indicative, not exhaustive. It is derived from one practitioner'
 **Energy Systems and Sustainability Engineering** — Architectural energy signatures and the thermodynamic footprint of digital infrastructure.
 
 
-
----
-
-## The Invitation
-
-The Industrial Field Standard is offered as the substrate for a development and research programme broader than any single discipline can carry. Three communities are explicitly invited to engage on the terms their methods make available. 
-
-**The scientific and academic community** is invited to provide the theoretical validation the framework's formal objects require. Physicists, operational-probabilistic theorists, quantum-cognition researchers, field-theoretic philosophers, and information-geometry specialists can specify the measuring apparatuses to be applied within the framework. Researchers can extend the formal apparatus into the domains they own. The framework provides the substrate; the academy provides the questions, the apparatus, and the analysis. 
-
-**Industrial partner organisations** are invited to host the programme in operating conditions. Manufacturing enterprises, multi-site operators, supply-chain integrators, and OEMs running production environments can offer the field laboratories in which the apparatus is deployed and the predictions are tested. Source-normalised emission across these environments produces the empirical record that academic analysis requires. The partnership is reciprocal: the operator gains the architectural account of their own system that no current methodology delivers; the researcher gains the observational substrate at scale that no laboratory can replicate. 
-
-**Macro-field actors** are invited to engage at the layer the equation describes most directly: regulatory bodies, standards agencies, continental planning bodies, and risk and capital institutions whose work currently operates on aggregate statistics and lagging indicators. The framework changes what these actors can observe and therefore what they can decide upon. Engagement at this layer turns the framework from a research programme into the empirical infrastructure the existing mandates already imply. 
-
-The framework rests on operational ground that is already established: source-normalised geometric architectures are deployed and proven in production. What the framework adds is the formal account of why these architectures succeed where sequential architectures fail, and the systemic frame within which the named actors can recognise their position relative to the equation. The invitation is to engage with the formal apparatus and the research programme it opens — not to validate the architecture itself, which is a settled question, but to specify and test the structural claims the framework makes about the manifold, its dynamics, and its boundary conditions. ^invitation-closing
-
 ---
 
 **Repository:** github.com/avoda-solutions
 **DOI:** [10.5281/zenodo.18246532](https://doi.org/10.5281/zenodo.18246532)
 **ORCID:** https://orcid.org/0009-0005-0948-961X
-**Contact:** Tuukka Vesa | [[Avoda Solutions]] OÜ | contact@avoda.solutions
+**Contact:** Tuukka Vesa | Avoda Solutions OÜ | contact@avoda.solutions
