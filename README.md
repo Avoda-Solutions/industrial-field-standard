@@ -25,7 +25,7 @@ The framework did not emerge from a methodology positioning itself against compe
 
 ## The Core Equation
 
-The transition from Industry 3.0 to Industry 4.0 is a topological state change defined by the relocation of the exponent:
+The transition from Industry 3.0 to Industry 4.0 is a topological state change defined by the relocation of the exponent trough a structural catalyst:
 
 O = (N²) → [UNS] → O = (N) ∧ I4²
 
