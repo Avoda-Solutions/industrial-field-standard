@@ -1,9 +1,13 @@
 # The Physics of Digital Transformation
 
-**Author:** Tuukka Vesa, Avoda Solutions OÜ
-**Standard Version:** 2.0.0
-**License:** CC BY-ND 4.0
+**Author:** Tuukka Vesa, Avoda Solutions OÜ 
+
+**Standard Version:** 2.0.0 
+
+**License:** CC BY-ND 4.0 
+
 **DOI:** [10.5281/zenodo.18246532](https://doi.org/10.5281/zenodo.18246532)
+
 
 ---
 
