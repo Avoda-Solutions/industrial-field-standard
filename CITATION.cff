@@ -1,18 +1,19 @@
 cff-version: 2.0.0
-message: "If you use this framework, please cite it as below."
+message: "If you use this standard, please cite it as below."
 authors:
   - family-names: Vesa
     given-names: Tuukka
     orcid: https://orcid.org/0009-0005-0948-961X
     affiliation: Avoda Solutions OÜ
-title: "Physics of Digital Transformation"
-version: 1.2.0
+title: "Industrial Field Standard"
+version: 2.0.0
 doi: 10.5281/zenodo.18246532
-date-released: 2026-01-25
-url: "https://github.com/Avoda-Solutions/physics-of-digital-transformation"
+date-released: 2026-09-20
+url: "https://github.com/Avoda-Solutions/industrial-field-standard"
 license: CC-BY-ND-4.0
-repository-code: "https://github.com/Avoda-Solutions/physics-of-digital-transformation"
+repository-code: "https://github.com/Avoda-Solutions/industrial-field-standard"
 keywords:
+  - industrial field standard
   - digital transformation
   - Industry 4.0
   - Industry 3.0
@@ -24,8 +25,6 @@ keywords:
   - manufacturing systems
   - organizational topology
   - non-Euclidean systems
-  - ISA-95 
-  - systems physics
-  - Industrial IoT
-  - architectural coherence
+  - ISA-95
   - paradigm shift
+  - architectural coherence
