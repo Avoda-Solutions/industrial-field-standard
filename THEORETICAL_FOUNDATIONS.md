@@ -7,8 +7,8 @@ $$O = (N^2) \rightarrow [\text{UNS}] \rightarrow O = (N) \wedge I4^2$$
 *Mapping Established Science onto the Framework*
 
 Tuukka Vesa
-[[Avoda Solutions]] OÜ
-March 2026
+Avoda Solutions OÜ
+Septmber 2026
 
 CC BY-ND 4.0 | DOI:[10.5281/zenodo.18246532](https://doi.org/10.5281/zenodo.18246532)
 
