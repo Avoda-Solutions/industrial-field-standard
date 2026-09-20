@@ -165,7 +165,7 @@ No organisational manifold has unlimited informational capacity. The maximum inf
 
 ## 3. THE STRUCTURAL INTERVENTION ([UNS])
 
-$$O = (N^2) \rightarrow \text{UNS \rightarrow O = (N) \wedge I4^2$$
+$$O = (N^2) \rightarrow [\text{UNS}] \rightarrow O = (N) \wedge I4^2$$
 
 *Laws governing why the catalyst works. These prove the Unified Namespace is a necessary structural intervention dictated by the topology of operational reality, not an optimisation within the legacy frame.* 
 
@@ -183,13 +183,13 @@ Beer's five systems map directly onto manifold functions: System 1 (operations) 
 
 **Maps to:** [[Axiom II — Geometric Catalysis|Axiom II, Geometric Catalysis]]; the [[Unified Namespace|[UNS]]] as #2 leverage point.
 
-Building on Jay Forrester's foundational work, Meadows' hierarchy identifies system structure as the second-highest leverage point for intervention. The UNS is not an optimisation tool operating within the existing topology; it is a structural replacement of the topology itself. Moving from N² interfaces to N addresses is a change to system structure—the precise intervention Meadows identifies as having the highest impact short of changing the system's goals or paradigm (which the IFS also accomplishes through [[Axiom V — The Paradigm Shift|Axiom V]]). The leverage Meadows attributes to structural intervention is what bifurcation dynamics formalises mathematically (see [[#^law-6-3-bifurcation|§6.3]]) and what Kuhn names at the meta-scientific level (see [[#^kuhn-three-levels|Foundational Posture]]). Meadows identifies the leverage empirically, bifurcation theory gives it phase-space mechanism, and Kuhn names the transition as paradigm-level — three views of the same structural fact at three layers of description. 
+Building on Jay Forrester's foundational work, Meadows' hierarchy identifies system structure as the second-highest leverage point for intervention. The UNS is not an optimisation tool operating within the existing topology; it is a structural replacement of the topology itself. Moving from N² interfaces to N addresses is a change to system structure—the precise intervention Meadows identifies as having the highest impact short of changing the system's goals or paradigm (which the IFS also accomplishes through[Axiom V — The Paradigm Shift|Axiom V). The leverage Meadows attributes to structural intervention is what bifurcation dynamics formalises mathematically (see §6.3) and what Kuhn names at the meta-scientific level (see Foundational Posture). Meadows identifies the leverage empirically, bifurcation theory gives it phase-space mechanism, and Kuhn names the transition as paradigm-level — three views of the same structural fact at three layers of description. 
 
 ### 3.3. Conant-Ashby Theorem (1970)
 
 **Statement:** Every good regulator of a system must be a model of that system.
 
-**Maps to:** The manifold-as-reality claim; the [[Coupled-Field Tensor Manifold]] as structural model of operational reality.
+**Maps to:** The manifold-as-reality claim; the Coupled-Field Tensor Manifold as structural model of operational reality.
 
 The Coupled-Field Tensor Manifold is literally a model of operational reality—the IFS's central ontological claim. The UNS instantiates that model digitally. Conant-Ashby proves this is not a design choice but a structural requirement: any system that attempts to regulate (control, coordinate, optimise) an organisation must be a model of that organisation. Legacy systems fail the Conant-Ashby test because they are flat projections of a coupled field—they model a linear sequence where a multi-dimensional manifold exists. 
 ---
