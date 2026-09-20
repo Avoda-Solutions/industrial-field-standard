@@ -374,8 +374,47 @@ The manifold does not eliminate KPIs. It eliminates the structural condition tha
 In the geometric state, the efficiency gained from eliminating O(N²) friction doesn't just reduce cost—it increases the organisation's capacity to absorb new nodes. Each new node added under geometric topology costs O(1) in marginal integration, making expansion self-reinforcing. The Jevons "paradox" is the mechanism: geometric efficiency drives expansion, which drives further geometric efficiency. This is the Reed's Law dynamic expressed in economic terms—the exponent powers growth rather than constraining it. 
 
 ---
+## 7. Unified Namespace
 
-## 7. THE OBSERVATIONAL INVITATION
+The catalyst in the [[Core Equation|core equation]]. The structural intervention that performs the transition from [[Quadratic Entanglement|O = (N²)]] to [[Linear Architecture|O = (N) ∧ I4²]]. Not a data broker, not an optimisation tool, not a destination reached by improving the failure state — the structural replacement of one topology with another.
+
+## Position in the equation
+
+$$O = (N^2) \rightarrow \textbf{[UNS]} \rightarrow O = (N) \wedge I4^2$$
+
+The UNS is the link between the two states. Without the [UNS] term, the equation has no left-hand-to-right-hand pathway; the failure state and the success state are simply two facts about networked systems sitting next to each other with no mechanism connecting them.
+
+### What it is structurally
+
+The UNS is a geometric transformation catalyst operating within ISA-95 structure. It provides dimensional separation across organisational layers and establishes a coordinate system that breaks sequential dependencies.
+
+It is a #2 leverage point in the [[THEORETICAL_FOUNDATIONS#^law-3-2-meadows|Meadows' hierarchy]]: changing the structure of the system. Moving from N² interfaces to N addresses is a change to system structure — the precise intervention Meadows identifies as having the highest impact short of changing the system's goals or paradigm.
+
+### The operational metabolism
+
+The UNS — originated by [[Walker Reynolds]] — instantiates as:
+
+- **[[source-normalised]] data:** events contextualised with their exact dimensional coordinates at the moment of creation
+- **[[Publish/Subscribe]] (Pub/Sub):** replaces query-response loops; nodes publish state changes to a UNS coordinate, consumers subscribe
+- **[[Report-by-Exception]] (RBE):** producers emit only on state delta, not on polling cycles
+
+This mechanism drives the mathematical drop from O(N²) to O(N) complexity.
+
+## How the structure has been observed
+
+Three established laws map to the structural intervention:
+
+- [[THEORETICAL_FOUNDATIONS#^law-3-1-beer|Beer's Viable System Model (1972)]] — recursive structure across scales
+- [[THEORETICAL_FOUNDATIONS#^law-3-2-meadows|Meadows' Leverage Points (1999)]] — #2 leverage point: changing system structure
+- [[THEORETICAL_FOUNDATIONS#^law-3-3-conant-ashby|Conant-Ashby Theorem (1970)]] — every good regulator must be a model of its system
+
+## Relation to the manifold
+
+The UNS is the only technical architecture capable of digitally mapping the [[Coupled-Field Tensor Manifold]] — the mathematically accurate description of operational reality. The UNS is to the manifold what a coordinate system is to a topological space: not the space itself, but the addressability that makes the space observable.
+
+
+---
+## 8. THE OBSERVATIONAL INVITATION
 
 $$O = (N^2) \rightarrow [\text{UNS}] \rightarrow O = (N) \wedge I4^2$$
 
