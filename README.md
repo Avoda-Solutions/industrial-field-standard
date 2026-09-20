@@ -9,13 +9,13 @@
 
 ## Origin
 
-The Unified Namespace has existed as a viable technical solution for years. The 80% digital-transformation failure rate has held across the same period despite every methodology, technology, and budget the field has thrown at it. These two facts coexist because the field as a whole lacks the language to identify the problem condition the failure rate signals, or to define the post-transition state any successful response would have to reach.
+The Unified Namespace has existed as a viable technical solution for years. The 80% digital-transformation failure rate has held across the same period despite every methodology, technology, and budget the field has invested at it. These two facts coexist because the field as a whole has not successfully identified the problem condition the failure rate signals, nor adequately defined the post-transition state any successful transformation attempt would have to reach.
 
 The equation is the identification. It names the problem condition — sequential architecture, where every new node multiplies integration cost as N². It names the success condition — geometric architecture, where the same exponent powers scaling rather than friction. And it names the catalyst that crosses between them: the Unified Namespace. The condition becomes addressable and treatable at the moment it is named.
 
 What the equation identifies, the rest of the framework describes. An organisation, observed structurally, is a series of relational events in three-dimensional space — most accurately described as a coupled tensor field, since the events are defined differently for different actors and identities. The framework establishes both the conditions of the field through the equation and the environment in which those conditions appear. The standard is for the organisation to self-realize its condition and environment, and to provide the tools to act on that basis. Observe-Orient-Decide-Act. Simple.
 
-The framework did not emerge from a methodology positioning itself against competitors, and it did not emerge from inside any existing discipline. It emerged from years of concentrated focus by one observer following the anomaly to its source.
+The framework did not emerge from a methodology positioning itself against competitors, and it did not emerge from inside any single existing discipline. It emerged from years of concentrated focus by one observer following the anomaly to its source.
 
 ---
 
