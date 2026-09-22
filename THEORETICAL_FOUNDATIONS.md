@@ -159,7 +159,7 @@ A sequential architecture is a closed system with respect to information coheren
 
 **Maps to:** The architectural information ceiling; physical limit on manifold capacity.
 
-No organisational manifold has unlimited informational capacity. The maximum information any finite system can hold is dictated by its energetic and spatial extent—not by engineering choices. A sequential architecture approaching its Bifurcation Point is approaching the Bekenstein ceiling for its energetic envelope. The geometric transition recovers headroom by eliminating redundant translation-layer information, allowing the architecture to absorb new nodes at marginal O(1) cost where the sequential state cannot. 
+No organisational manifold has unlimited informational capacity. The maximum information any finite system can hold is dictated by its energetic and spatial extent. A sequential architecture approaching its Bifurcation Point is approaching the Bekenstein ceiling for its energetic envelope. The geometric transition recovers headroom by eliminating redundant translation-layer information, allowing the architecture to absorb new nodes at marginal O(1) cost where the sequential state cannot. 
 
 ---
 
