@@ -101,6 +101,7 @@ The post-transition state. What becomes structurally available after the exponen
 - Bifurcation Theory (Poincaré 1885; Strogatz 1994) — formal mathematics of the phase transition
 - Goodhart's Law (1975) — geometric resolution of the metric distortion pathology
 - Jevons Paradox (1865) — efficiency drives expansion, expansion drives further efficiency
+  
 ---
  
 ## Reading the equation as the framework's coordinate system
@@ -112,12 +113,7 @@ The equation is the framework's coordinate system in the same way that ISA-95 is
 This document is the navigation index for that coordinate system.
  
 ---
- 
+
 ## Foundational posture
- 
+
 The framework's posture toward established science is one of subsumption: the laws above were not the framework's theoretical starting points. They were discovered when the equation was validated against the existing body of established science.
-
-
-
-
-
