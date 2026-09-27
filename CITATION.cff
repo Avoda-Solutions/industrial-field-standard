@@ -1,17 +1,18 @@
-cff-version: 2.0.0
+cff-version: 1.2.0
 message: "If you use this standard, please cite it as below."
+type: dataset
+title: "Industrial Field Standard"
+version: 2.0.2
+doi: 10.5281/zenodo.18246532
+date-released: 2026-09-20
+url: "https://github.com/Avoda-Solutions/industrial-field-standard"
+repository-code: "https://github.com/Avoda-Solutions/industrial-field-standard"
+license: CC-BY-ND-4.0
 authors:
   - family-names: Vesa
     given-names: Tuukka
     orcid: https://orcid.org/0009-0005-0948-961X
     affiliation: Avoda Solutions OÜ
-title: "Industrial Field Standard"
-version: 2.0.0
-doi: 10.5281/zenodo.18246532
-date-released: 2026-09-20
-url: "https://github.com/Avoda-Solutions/industrial-field-standard"
-license: CC-BY-ND-4.0
-repository-code: "https://github.com/Avoda-Solutions/industrial-field-standard"
 keywords:
   - industrial field standard
   - digital transformation
@@ -28,3 +29,15 @@ keywords:
   - ISA-95
   - paradigm shift
   - architectural coherence
+preferred-citation:
+  type: dataset
+  title: "Industrial Field Standard"
+  authors:
+    - family-names: Vesa
+      given-names: Tuukka
+      orcid: https://orcid.org/0009-0005-0948-961X
+      affiliation: Avoda Solutions OÜ
+  version: 2.0.1
+  doi: 10.5281/zenodo.18246532
+  year: 2026
+  url: "https://doi.org/10.5281/zenodo.18246532"
