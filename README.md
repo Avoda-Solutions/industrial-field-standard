@@ -62,7 +62,7 @@ Both academic and commercial use of the standard are freely permitted, provided 
 
 Attribution required. No derivatives without permission. See [LICENCE](LICENCE) for full text.
 
-**Jurisdiction:** This work is governed by the laws of Estonia.
-**Contact:** info@avoda.solutions
-**Website:** [avoda.solutions](https://avoda.solutions) 
+**Jurisdiction:** This work is governed by the laws of Estonia.  
+**Contact:** info@avoda.solutions  
+**Website:** [avoda.solutions](https://avoda.solutions)  
 **Citation:** See CITATION.cff or cite via DOI: [10.5281/zenodo.18246532](https://doi.org/10.5281/zenodo.18246532)
