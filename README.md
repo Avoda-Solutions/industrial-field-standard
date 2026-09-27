@@ -46,8 +46,8 @@ The IFS is a standard in its core ontological nature. The equation is the fixed 
 | Document | Provides |
 |----------|----------|
 | [Axioms](IFS-AXIOMS.md) | Technical specification |
-| [Core Equation](IFS-CORE-EQUATION.md) | Transformation model |
-| [Theoretical Foundations](IFS-THEORETICAL-FOUNDATIONS.md) | Scientific grounding |
+| [Core Equation](IFS_CORE_EQUATION.md) | Transformation model |
+| [Theoretical Foundations](IFS_THEORETICAL_FOUNDATIONS.md) | Scientific grounding |
 
 All documents rest on operational ground that is already established: source-normalised geometric architectures are deployed and proven in production. What the framework provides is the formal account of why these architectures succeed where sequential architectures fail.
 
