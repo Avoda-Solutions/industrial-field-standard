@@ -2,7 +2,7 @@
 
 ## **of the Industrial Field Standard**
 
-# O = (N²) → [UNS] → O = (N) ∧ I4²
+### O = (N²) → [UNS] → O = (N) ∧ I4²
 
 
 *Mapping Established Science onto the Framework*
