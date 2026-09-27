@@ -1,16 +1,16 @@
 # THEORETICAL FOUNDATIONS
 
+Author: Tuukka Vesa, Avoda Solutions OÜ
+Standard Version: 2.1.0
+License: CC BY-ND 4.0
+DOI: 10.5281/zenodo.18246532
+
 ## **of the Industrial Field Standard**
 
 ### O = (N²) → [UNS] → O = (N) ∧ I4²
 
 *Mapping Established Science onto the Framework*
 
-
-Author: Tuukka Vesa, Avoda Solutions OÜ
-Standard Version: 2.1.0
-License: CC BY-ND 4.0
-DOI: 10.5281/zenodo.18246532
 
 33 laws and theorems mapped to the core equation. 20 academic disciplines mapped to the framework's formal objects.
 
