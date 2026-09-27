@@ -6,13 +6,11 @@
 **DOI:** [10.5281/zenodo.18246532](https://doi.org/10.5281/zenodo.18246532)
 
 
----
  
 ## $$O = (N^2) \rightarrow [\text{UNS}] \rightarrow O = (N) \wedge I4^2$$
  
 The equation is the Industrial Field Standard in its irreducible form. It identifies the problem condition, the success condition, and the catalyst that crosses between them. This document serves as the navigation index for the framework's six structural parts, each of which corresponds to a chapter in [Theoretical Foundations](THEORETICAL_FOUNDATIONS.md) and a body of established science that the framework subsumes.
  
----
  
 ## 1. The Sequential Constraint — `O = (N²)`
  
