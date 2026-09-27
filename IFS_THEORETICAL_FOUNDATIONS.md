@@ -468,11 +468,3 @@ This mapping is indicative, not exhaustive. It is derived from one practitioner'
 **Philosophy of Science and Technology** — Paradigm structure, measurement ontology, and organisational field theory as philosophical claim.
 
 **Energy Systems and Sustainability Engineering** — Architectural energy signatures and the thermodynamic footprint of digital infrastructure.
-
-
----
-
-**Repository:** github.com/avoda-solutions
-**DOI:** [10.5281/zenodo.18246532](https://doi.org/10.5281/zenodo.18246532)
-**ORCID:** https://orcid.org/0009-0005-0948-961X
-**Contact:** Tuukka Vesa | Avoda Solutions OÜ | contact@avoda.solutions
