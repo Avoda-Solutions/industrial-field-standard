@@ -30,7 +30,7 @@ The transition from Industry 3.0 to Industry 4.0 is a topological state change d
 
 ### Axiom I: The Principle of Quadratic Entanglement, Euclidean (Industry 3.0)
 
-In sequential, Euclidean architecture, every new node requires a physical/logical "line" to existing nodes, causing complexity to grow quadratically.
+In sequential, Euclidean architecture, every new node requires a physical/logical "thread" to existing nodes, causing complexity to grow quadratically.
 
 **Mechanism:** System "weight" grows faster than its capability.
 
