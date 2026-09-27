@@ -2,7 +2,7 @@
 
 **Author:** Tuukka Vesa, Avoda Solutions OÜ 
 
-**Standard Version:** 2.0.0 
+**Standard Version:** 2.1.0 
 
 **License:** CC BY-ND 4.0 
 
