@@ -115,55 +115,7 @@ This document is the navigation index for that coordinate system.
  
 ## Foundational posture
  
-The framework's posture toward established science is one of subsumption: the laws above were not the framework's theoretical starting points. They were discovered when the equation was validated against the existing body of established science. See the Foundational Posture chapter in [Theoretical Foundations](THEORETICAL_FOUNDATIONS.md) for the formal account of this register.
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+The framework's posture toward established science is one of subsumption: the laws above were not the framework's theoretical starting points. They were discovered when the equation was validated against the existing body of established science.
 
 
 
