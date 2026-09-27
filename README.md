@@ -57,9 +57,9 @@ The material represents the bare structural minimum required to demonstrate the 
 
 ## Licence & Legal
 
-Both academic and commercial use of the standard are freely permitted, provided the work is properly attributed and distributed unchanged.Derivative works require permission from the author. Architectural direction for proper implementation is available through Avoda Solutions.
+Both academic and commercial use of the standard are freely permitted, provided the work is properly attributed and distributed unchanged. Derivative works require permission from the author. Architectural direction for proper implementation is available through Avoda Solutions.
 
-**Licence:** CC BY-ND 4.0 International. Attribution required. No derivatives without permission. See LICENCE for full text.
+Attribution required. No derivatives without permission. See (LICENCE) for full text.
 
 **Jurisdiction:** This work is governed by the laws of Estonia.
 **Contact:** info@avoda.solutions
