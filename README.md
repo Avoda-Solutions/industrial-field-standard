@@ -51,8 +51,8 @@ The IFS is a standard in its core ontological nature. The equation is the fixed 
 
 | Document | Provides |
 |----------|----------|
-| [Core Equation](CORE_EQUATION.md) | Navigation index organising the framework's six structural parts and mapping each to the established science it subsumes |
-| [Theoretical Foundations](THEORETICAL_FOUNDATIONS.md) | 33 laws and theorems across 20 academic disciplines mapped to the framework's formal objects |
+| [Core Equation](IFS_CORE_EQUATION.md) | Navigation index organising the framework's six structural parts and mapping each to the established science it subsumes |
+| [Theoretical Foundations](IFS_THEORETICAL_FOUNDATIONS.md) | 33 laws and theorems across 20 academic disciplines mapped to the framework's formal objects |
 
 Both documents rest on operational ground that is already established: source-normalised geometric architectures are deployed and proven in production. What the framework provides is the formal account of why these architectures succeed where sequential architectures fail.
 
