@@ -50,7 +50,7 @@ The 80% failure rate is the empirical signature Kuhn predicted for crisis period
 
 **- Industry 4.0: Non-Euclidean geometric architecture. Connectivity manifests as scalability and value.**
 
-Defined this way, the two states are not connected by gradual improvement, and they are not crossed by technology adoption. They are separated by a structural discontinuity that no amount of effort within either state can bridge. The Conservation Principle, formalised through Metcalfe's Law (1980), establishes why: the exponential potential (N²) is an immutable property of the network. It is conserved across the transition, not eliminated by it. The paradigm shift is entirely determined by where this exponent manifests — as friction in the failure state, as capacity in the success state.
+Defined this way, the two states are not connected by gradual improvement, and they are not crossed by technology adoption alone. They are separated by a structural discontinuity that no amount of effort can otherwise bridge. The Conservation Principle, formalised through Metcalfe's Law (1980), establishes why: the exponential potential (N²) is an immutable property of the network. It is conserved across the transition, not eliminated by it. The paradigm shift is entirely determined by where this exponent manifests — as friction in the failure state, as capacity in the success state.
 
 ---
 
