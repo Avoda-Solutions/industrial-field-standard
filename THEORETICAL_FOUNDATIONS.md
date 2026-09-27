@@ -2,7 +2,8 @@
 
 ## **of the Industrial Field Standard**
 
-# $$O = (N^2) \rightarrow [\text{UNS}] \rightarrow O = (N) \wedge I4^2$$
+# O = (N²) → [UNS] → O = (N) ∧ I4²
+
 
 *Mapping Established Science onto the Framework*
 
