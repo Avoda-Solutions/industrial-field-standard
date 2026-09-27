@@ -2,7 +2,7 @@
 
 **Author:** Tuukka Vesa, Avoda Solutions OÜ  
 **Standard Version:** 2.1.0  
-**License:** CC BY-ND 4.0  
+**Licence:** CC BY-ND 4.0  
 **DOI:** [10.5281/zenodo.18246532](https://doi.org/10.5281/zenodo.18246532)
 
 
@@ -59,7 +59,7 @@ The material represents the bare structural minimum required to demonstrate the 
 
 Both academic and commercial use of the standard are freely permitted, provided the work is properly attributed and distributed unchanged. Derivative works require permission from the author. Architectural direction for proper implementation is available through Avoda Solutions.
 
-Attribution required. No derivatives without permission. See (LICENCE) for full text.
+Attribution required. No derivatives without permission. See [LICENCE](LICENCE) for full text.
 
 **Jurisdiction:** This work is governed by the laws of Estonia.
 **Contact:** info@avoda.solutions
