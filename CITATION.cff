@@ -4,7 +4,7 @@ type: dataset
 title: "Industrial Field Standard"
 version: 2.1.0
 doi: 10.5281/zenodo.18246532
-date-released: 2026-09-20
+date-released: 2026-09-27
 url: "https://github.com/Avoda-Solutions/industrial-field-standard"
 repository-code: "https://github.com/Avoda-Solutions/industrial-field-standard"
 license: CC-BY-ND-4.0
