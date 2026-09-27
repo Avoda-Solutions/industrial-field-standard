@@ -45,7 +45,7 @@ The IFS is a standard in its core ontological nature. The equation is the fixed 
 
 | Document | Provides |
 |----------|----------|
-| [Axioms](IFS-AXIOMS.md) | Technical specification |
+| [Axioms](IFS_AXIOMS.md) | Technical specification |
 | [Core Equation](IFS_CORE_EQUATION.md) | Transformation model |
 | [Theoretical Foundations](IFS_THEORETICAL_FOUNDATIONS.md) | Scientific grounding |
 
