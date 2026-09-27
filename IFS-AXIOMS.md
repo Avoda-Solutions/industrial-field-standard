@@ -1,5 +1,5 @@
-## IFS-00
-# The Physics of Digital Transformation: Axioms & Theorems
+# IFS AXIOMS
+## The Physics of Digital Transformation: Axioms & Theorems
 
 **Author:** Tuukka Vesa, Avoda Solutions OÜ  
 **Standard Version:** 2.1.0  
