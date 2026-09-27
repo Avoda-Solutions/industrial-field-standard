@@ -52,7 +52,7 @@ The IFS is a standard in its core ontological nature. The equation is the fixed 
 All documents rest on operational ground that is already established: source-normalised geometric architectures are deployed and proven in production. What the framework provides is the formal account of why these architectures succeed where sequential architectures fail.
 
 The material represents the bare structural minimum required to demonstrate the framework's research surface. The documents are not exhaustive descriptions of organisational reality. They are the starting coordinates from which exploration begins — by researchers, by practitioners, and by the organisations that inhabit their own manifolds.
-
+Further material is in development and will publish across the coming months.
 ---
 
 ## Licence & Legal
