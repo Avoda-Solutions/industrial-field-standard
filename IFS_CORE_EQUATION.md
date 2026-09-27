@@ -1,4 +1,4 @@
-# THE CORE EQUATION
+# THE IFS CORE EQUATION
 
 **Author:** Tuukka Vesa, Avoda Solutions OÜ  
 **Standard Version:** 2.1.0  
