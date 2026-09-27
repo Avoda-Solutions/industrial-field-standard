@@ -17,7 +17,7 @@ The Unified Namespace has existed as a viable technical solution for years. The 
 
 The equation is the identification. It names the problem condition — sequential architecture, where every new node multiplies integration cost as N². It names the success condition — geometric architecture, where the same exponent powers scaling rather than friction. And it names the catalyst that crosses between them: the Unified Namespace. The condition becomes addressable and treatable at the moment it is named.
 
-What the equation identifies, the rest of the framework describes. An organisation, observed structurally, is a series of relational events in three-dimensional space — most accurately described as a coupled tensor field, since the events are defined differently for different actors and identities. The framework establishes both the conditions of the field through the equation and the environment in which those conditions appear. The standard is for the organisation to self-realize its condition and environment, and to provide the tools to act on that basis. Observe-Orient-Decide-Act. Simple.
+What the equation identifies, the rest of the framework describes. An organisation, observed structurally, is a series of relational events in three-dimensional space — most accurately described as a coupled tensor field, since the events are defined differently for different actors and identities. The framework establishes both the conditions of the field through the equation and the environment in which those conditions appear. The standard is for the organisation to self-realise its condition and environment, and to provide the tools to act on that basis. Observe-Orient-Decide-Act. Simple.
 
 The framework did not emerge from a methodology positioning itself against competitors, and it did not emerge from inside any single existing discipline. It emerged from years of concentrated focus by one observer following the anomaly to its source.
 
@@ -25,13 +25,10 @@ The framework did not emerge from a methodology positioning itself against compe
 
 ## The Core Equation
 
-The transition from Industry 3.0 to Industry 4.0 is a topological state change defined by the relocation of the exponent trough a structural catalyst:
+The transition from Industry 3.0 to Industry 4.0 is a topological state change defined by the relocation of the exponent through a structural catalyst:
 
 O = (N²) → [UNS] → O = (N) ∧ I4²
 
----
-
-## The Framework
 
 The equation identifies the structural condition producing the digital transformation failure pattern and specifies the intervention that resolves it. Sequential architecture — where every new node multiplies integration cost as N² — collapses under its own metabolic weight. Geometric architecture — where the same exponent powers scaling rather than friction — operates through the Unified Namespace as structural substrate.
 
@@ -51,10 +48,11 @@ The IFS is a standard in its core ontological nature. The equation is the fixed 
 
 | Document | Provides |
 |----------|----------|
-| [Core Equation](IFS_CORE_EQUATION.md) | Navigation index organising the framework's six structural parts and mapping each to the established science it subsumes |
-| [Theoretical Foundations](IFS_THEORETICAL_FOUNDATIONS.md) | 33 laws and theorems across 20 academic disciplines mapped to the framework's formal objects |
+| [Axioms](IFS-AXIOMS.md) | Technical specification |
+| [Core Equation](IFS-CORE-EQUATION.md) | Transformation model |
+| [Theoretical Foundations](IFS-THEORETICAL-FOUNDATIONS.md) | Scientific grounding |
 
-Both documents rest on operational ground that is already established: source-normalised geometric architectures are deployed and proven in production. What the framework provides is the formal account of why these architectures succeed where sequential architectures fail.
+All documents rest on operational ground that is already established: source-normalised geometric architectures are deployed and proven in production. What the framework provides is the formal account of why these architectures succeed where sequential architectures fail.
 
 The material represents the bare structural minimum required to demonstrate the framework's research surface. The documents are not exhaustive descriptions of organisational reality. They are the starting coordinates from which exploration begins — by researchers, by practitioners, and by the organisations that inhabit their own manifolds.
 
@@ -69,5 +67,3 @@ Both academic and commercial use of the standard are freely permitted, provided 
 **Jurisdiction:** This work is governed by the laws of Estonia.
 **Contact:** info@avoda.solutions
 **Citation:** See CITATION.cff or cite via DOI: [10.5281/zenodo.18246532](https://doi.org/10.5281/zenodo.18246532)
-
-
