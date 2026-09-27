@@ -111,13 +111,3 @@ The geometric state is the operational condition where scaling generates non-lin
 
 **Geometric Inhabitation ($O=N$):** By inheriting a unified coordinate system (UNS), nodes exist as addresses on a manifold rather than ends of a string. Complexity folds into self-similar patterns, allowing expansion to remain proportional to $N$ as the substrate internalises the coordination cost.
 
-
----
-
-## Licence
-
-**Licence:** CC BY-ND 4.0 International. Attribution required. No derivatives without permission.
-
-Both academic and commercial use of the standard are freely permitted, provided the work is properly attributed and distributed unchanged. Derivative works require permission from the author. Architectural direction for proper implementation is available through Avoda Solutions.
-
-**Citation:** See [CITATION.cff](CITATION.cff) or cite via DOI: [10.5281/zenodo.18246532](https://doi.org/10.5281/zenodo.18246532)
